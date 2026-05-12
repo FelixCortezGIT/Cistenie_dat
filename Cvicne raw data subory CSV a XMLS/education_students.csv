@@ -1,0 +1,123 @@
+﻿student_id,name,email,grade_year,date_of_birth,gpa,status
+1,Candace Soto,jacksonsandra@example.net,2,2008-08-26,2.69,Active
+2,Theobald Tschentscher,eobrien@example.com,1,2009-07-02,3.1,ACTIVE
+3,Jason Thomas,isabellastriebitz@example.com,3,2004-08-21,2.82,active
+4,Erdogan Kostolzin,alexandrablankenship@example.net,3,1997-04-10,3.89,active
+5,Laszlo Dietz-Gierschner,davisdonna@example.net,1,2008-10-24,3.79,Inactive
+6,Patricia Banks,zperez@example.com,Third,2000-11-05,2.19,Active
+7,Liesel Weihmann,owilms@example.org,2,2001-09-03,2.78,Active
+8,Ing. Cora Adolph,brooksjamie@example.com,2,2003-12-17,3.09,ACTIVE
+9,Ayten Förster,nada86@example.net,2,01-23-2005,3.39,Inactive
+10,Marion Kruschwitz,pavelroemer@example.net,1,2001-06-28,2.04,inactive
+11,Florentine Rust,nadeschdasorgatz@example.org,2nd,2006-11-26,1.21,ACTIVE
+12,Michael Martin,fritschreiner@example.net,1,2002-12-01,3.55,inactive
+13,Samantha Ruiz,pawelbudig@example.net,2,1996-08-11,2.3,ACTIVE
+14,Tara Morales,,1,2005-12-18,3.12,inactive
+15,Alf Ziegert B.A.,gerdaackermann@example.org,3,2005-05-26,3.2,ACTIVE
+16,Penny Gomez MD,dunnjessica@example.net,2,2003-01-21,,inactive
+17,Wibke Hofmann,kspears@example.org,1,2004-05-21,2.31,Inactive
+18,Dipl.-Ing. Janus Döring,peukertvaleska@example.com,1st,11-02-2002,1.97,Active
+19,Wilhelmine Kostolzin MBA.,bschaaf@example.com,2,2006-08-27,1.84,inactive
+20,james kramer,robert58@example.net,4,2005-06-11,3.25,Inactive
+21,Deborah Mitchell,roehrdanzsvetlana@example.org,Third,2005-05-25,2.01,inactive
+22,Gisela Harloff,pmclaughlin@example.net,2nd,1998-01-12,1.55,Active
+23,Christine Harris,liadoering@example.org,2nd,2007-11-02,3.39,ACTIVE
+24,Mary Austin,adriane94@example.com,1st,2008-01-05,3.64,ACTIVE
+25,Dr. Diana Walker,creuter@example.net,2,1996-02-07,1.03,Active
+26,Slavica Striebitz-Wulf,astewart@example.org,2,2002-02-23,1.72,inactive
+27,Brian Ward,juliusmude@example.net,1,02-05-1998,2.67,Active
+28,Cläre Ortmann,,1,1998-06-13,2.94,inactive
+29,Veronica Parks,mchase@example.org,1,2006-02-07,3.38,active
+30,Adam Fisher,qjacob@example.net,1st,2010-03-23,1.66,Active
+31,Michael Brown,qgarner@example.com,1st,2002-06-09,2.99,ACTIVE
+32,Gertrude Bärer,tiffanymitchell@example.com,1,1997-02-09,,Inactive
+33,Sybilla Budig MBA.,daniellemcfarland@example.com,2,2002-03-31,2.03,Inactive
+34,Arnulf Fritsch,ingeborg49@example.net,2nd,1998-09-18,2.06,inactive
+35,Swantje Martin,lgeisel@example.org,1st,2006-07-05,1.92,Active
+36,Mary Shepard,dehmelcarl-heinz@example.com,2,06-13-1998,3.16,ACTIVE
+37,James Hubbard,penanicole@example.com,2,1996-11-06,3.23,Active
+38,Duane Sims,johnsonmichael@example.com,4,2003-03-12,1.65,inactive
+39,Zehra Reuter B.Eng.,owelch@example.net,1st,1997-04-26,3.17,Inactive
+40,theresa kensy,aparker@example.com,1st,2003-05-21,3.94,Active
+41,Aaron Ochoa,strohsophia@example.com,1st,2000-06-13,1.68,Active
+42,Aenne Wilms,,1st,2007-04-06,1.04,Inactive
+43,Elfie Fröhlich-Trubin,christian38@example.net,3,2007-09-19,1.82,active
+44,Margaret Weimer,derrickrodriguez@example.com,2,2001-06-26,1.88,Active
+45,Mechthilde Scholtz,brandonnichols@example.org,1,02-08-1998,1.31,active
+46,Calvin Gonzales,snydermatthew@example.com,1st,1998-10-13,2.41,inactive
+47,Irmhild Textor,adamsphilip@example.net,2nd,2000-03-30,1.55,active
+48,Dr. Tino Hermann,paulproctor@example.org,1st,2007-09-18,,inactive
+49,Nicolas Davis,giorgio08@example.net,2,2002-05-20,3.47,inactive
+50,Mark Gonzalez,youngryan@example.org,1,2008-03-30,1.22,active
+51,Lauren Foster,jbarker@example.com,3,1995-06-04,1.45,Inactive
+52,Jonathan Parks,kellyeric@example.net,1st,2009-04-03,1.26,Active
+53,David Holden,amirstroh@example.com,2,2007-05-17,2.67,inactive
+54,Fatih Benthin-Neureuther,carolinagotthard@example.net,4,09-04-2003,3.33,inactive
+55,Myriam Mosemann,schmidtshannon@example.com,1,2008-04-21,3.73,ACTIVE
+56,Adele Wulf MBA.,,Third,2008-07-14,1.92,Inactive
+57,Jonas Stoll MBA.,usegebahn@example.org,1,2004-06-26,2.83,active
+58,Andrea Conley,daniellee@example.org,4,1997-12-20,2.88,ACTIVE
+59,Prof. Luitgard Tintzmann B.Eng.,conradjason@example.com,2,2000-10-14,1.47,Active
+60,mark ward,allison14@example.org,2,2007-08-15,1.23,active
+61,Anne Hardy,angelagrant@example.net,Third,1998-02-18,2.35,Inactive
+62,Laura Craig,andreawagner@example.net,1,2008-07-13,1.87,Active
+63,Lindsay Mahoney,samuel65@example.net,1st,07-17-2003,3.12,inactive
+64,Cindy Cannon,akruschwitz@example.net,2,2000-09-09,,Active
+65,Ms. Kelly Holder,melissasmith@example.net,1st,1995-05-22,3.36,Inactive
+66,Bekir Bender-Mies,rita93@example.org,4,1997-08-19,2.28,Inactive
+67,Antonia Rudolph,cummingslaura@example.org,4,2003-10-29,2.94,ACTIVE
+68,Konstantinos Segebahn,zahnbertram@example.com,3,1995-11-07,1.21,Active
+69,Dipl.-Ing. Uta Dussen van,hbrown@example.org,1st,2006-07-04,2.79,Inactive
+70,Gottlieb Paffrath-Thanel,,1st,1997-08-03,2.32,inactive
+71,Dylan Foster,roggeroderich@example.com,1st,2000-05-01,3.1,ACTIVE
+72,Jeffrey Wolfe,kfoster@example.org,2,07-03-2002,2.62,inactive
+73,Derek Jordan,wkobelt@example.org,2,1996-12-23,2.79,inactive
+74,Liliane Sölzer,christina79@example.org,2nd,2006-11-02,2.81,active
+75,Vincent Heintze,rodriguezbrian@example.net,2,2005-07-28,1.69,Inactive
+76,Samantha Smith,kabushasan@example.net,1,1999-11-13,4.0,ACTIVE
+77,Joseph Green,bennettrebecca@example.net,1,2004-08-20,3.29,Active
+78,Antonio Gonzalez,pricejoseph@example.net,1,1996-02-01,2.56,inactive
+79,Alberto Hornich,jopichzbigniew@example.net,1st,1998-10-04,1.54,Inactive
+80,jonathan ellis,adelinde62@example.org,Third,1995-11-20,,inactive
+81,Gislinde Schomber,schomberjoachim@example.com,2,11-01-1998,2.41,inactive
+82,Tiffany Perez,blairabigail@example.net,2nd,2008-09-30,1.96,active
+83,Kenneth Simmons,iriehl@example.org,3,2008-12-08,1.99,inactive
+84,Melinda Harris,,1st,1999-12-05,2.99,inactive
+85,Justin Fry,cannonnicole@example.com,2,1998-01-19,1.11,active
+86,Inge Weinhage,andersonanthony@example.net,2nd,1997-07-27,1.76,active
+87,Prof. Erhardt Heinrich B.Sc.,allaschleich@example.com,Third,1996-06-25,3.59,active
+88,Dipl.-Ing. Ismail Mühle,ortiztanya@example.com,2,1997-09-30,2.39,active
+89,Univ.Prof. Micha Gutknecht B.A.,ustroh@example.com,4,1997-12-12,2.56,Inactive
+90,Ricardo Franklin,poelitzelmar@example.com,1,02-03-2006,2.88,active
+91,Theo Henschel,oblack@example.org,4,2010-01-18,1.8,Active
+92,James Torres,elfie08@example.org,1st,2002-03-18,2.31,inactive
+93,Antje Ullmann B.Sc.,cgutierrez@example.org,2,2006-12-21,1.09,Inactive
+94,Steven Huang,irmelawagner@example.org,4,1996-08-23,3.13,ACTIVE
+95,Jerry Cox,cpierce@example.org,2,2006-03-12,1.04,inactive
+96,Danny Fiebig-Gieß,ohoevel@example.org,2,2001-08-01,,Active
+97,Toni Smith,zring@example.org,2,1995-06-22,2.38,active
+98,Dr. Klaus-Ulrich Sorgatz MBA.,,3,2001-06-11,2.5,ACTIVE
+99,Charles Delgado,mark10@example.org,2,06-21-1997,3.12,inactive
+100,dr. michael hölzenbecher,davidskristina@example.com,1,2009-10-14,3.94,Active
+101,Tania Kramer,thomas14@example.com,1,2006-09-01,2.65,inactive
+102,Nico Häring B.Sc.,mramsey@example.net,4,2003-11-11,3.77,Inactive
+103,Prof. Siegrun Junck,elisarose@example.com,3,2003-03-04,3.59,ACTIVE
+104,Dr. Suzanne Schmidt B.A.,johnsoncolleen@example.org,Third,2009-12-24,2.02,Inactive
+105,Yvonne Gutierrez,davidsonhannah@example.com,1st,2000-07-14,3.46,ACTIVE
+106,Jonathon Nguyen,robby99@example.org,1st,1996-12-30,3.51,Inactive
+107,Roy Nielsen,timothyburton@example.net,1,2009-01-12,3.6,inactive
+108,Rahel Lehmann B.Sc.,haenelcilly@example.net,2,10-07-2003,2.45,ACTIVE
+109,Anne-Katrin Fischer,ischomber@example.org,2,2007-11-26,3.29,inactive
+110,Prof. Boris Zänker,heydrichsebastian@example.org,1,2005-11-14,3.8,Active
+111,Ing. Henner Jacobi Jäckel B.A.,wulffhansgeorg@example.org,4,1997-11-30,2.72,Active
+112,Roger Nette,,Third,1998-02-22,,active
+113,Andrew Hughes,cookpamela@example.org,2nd,1995-05-09,3.23,inactive
+114,Kilian Werner,james44@example.net,Third,2004-11-15,3.97,Active
+115,Marie-Therese Drubin B.Eng.,mullenanita@example.org,1,1997-08-26,3.89,Active
+116,Kirsten Nelson,collinspatricia@example.net,2,2003-11-26,3.9,ACTIVE
+117,Carmelo Baum,reyeschristopher@example.com,2,11-03-2008,3.62,inactive
+118,Stephanie Soto,margret38@example.org,2,2004-07-14,2.58,inactive
+119,Bayram Thanel-Mosemann,oheinrich@example.org,1,2002-02-15,3.17,inactive
+120,hedwig gnatz,bneuschaefer@example.org,3,2007-02-14,1.22,ACTIVE
+11,Florentine Rust,nadeschdasorgatz@example.org,2nd,2006-11-26,1.21,ACTIVE
+36,Mary Shepard,dehmelcarl-heinz@example.com,2,06-13-1998,3.16,ACTIVE

@@ -1,0 +1,83 @@
+﻿product_id,product_name,category,price,stock_quantity,sku,available
+1,Revolutionize Seamless Models,books,245.39,54.0,SKU-1960,true
+2,Optimize Turn-Key Deliverables,clothing,192.59,99.0,SKU-8454,1
+3,Reinvent Innovative Mindshare,home,214.39,187.0,SKU-8973,true
+4,Deploy Wireless Infrastructures,Electronics,99.0,55.0,SKU-9883,True
+5,Enhance Killer Web Services,Electronics,375.25,14.0,SKU-8811,false
+6,Facilitate Bricks-And-Clicks Technologies,ELECTRONICS,460.1,135.0,SKU-1931,false
+7,Engineer Collaborative Schemas,electronics,44.66,47.0,SKU-2113,0
+8,  Embrace Cross-Media Systems,electronics,431.6,103.0,SKU-5033,false
+9,Productize Interactive Paradigms,electronics,299.29,158.0,SKU-7868,0
+10,Synergize One-To-One Architectures,Books,293.92,133.0,SKU-5272,true
+11,Incubate Front-End Web-Readiness,Clothing,336.51 EUR,80.0,SKU-5351,False
+12,Deliver Customized Models,clothing,69.78,165.0,SKU-8491,1
+13,Envisioneer Dynamic Vortals,Electronics,464.86,,SKU-8508,false
+14,Transform Frictionless Users,electronics,499.23,25.0,SKU-9808,true
+15,Whiteboard Innovative E-Tailers,Books,255.41,33.0,SKU-2127,true
+16,  Cultivate Cutting-Edge Platforms,Home,187.92,40.0,SKU-9900,0
+17,Incubate User-Centric Experiences,home,154.75,167.0,sku1128,0
+18,Extend B2C Web-Readiness,electronics,409.47,76.0,SKU-3200,1
+19,Unleash Open-Source Paradigms,home,62.14,27.0,SKU-3546,1
+20,Optimize Scalable Roi,Books,144.47,53.0,SKU-4335,0
+21,Engage Intuitive Networks,home,318.95,67.0,SKU-9004,1
+22,Redefine Back-End E-Markets,electronics,453.14 EUR,13.0,SKU-7939,1
+23,Grow Wireless E-Commerce,ELECTRONICS,26.82,85.0,SKU-5291,true
+24,  Utilize Integrated Methodologies,books,371.91,141.0,SKU-1158,True
+25,Incubate Clicks-And-Mortar Experiences,ELECTRONICS,42.25,176.0,SKU-9938,True
+26,Engineer Revolutionary Partnerships,home,418.12,,SKU-3426,False
+27,Re-Contextualize Sticky Technologies,Books,68.09,78.0,SKU-1653,1
+28,Expedite E-Business Technologies,electronics,108.99,63.0,SKU-6794,false
+29,Synergize Impactful Web Services,ELECTRONICS,442.65,104.0,SKU-4878,true
+30,Syndicate Granular Users,books,488.22,45.0,SKU-1406,true
+31,Enable Impactful Users,books,369.6,85.0,SKU-5065,1
+32,  Whiteboard B2B Content,electronics,83.8,179.0,SKU-7267,True
+33,Implement B2B Initiatives,Clothing,430.0 EUR,56.0,SKU-8541,1
+34,Implement Impactful Users,Clothing,156.07,58.0,sku1387,0
+35,Monetize Best-Of-Breed Convergence,clothing,100.6,84.0,SKU-2137,1
+36,Deploy B2B Communities,books,178.82,130.0,SKU-9785,1
+37,Enhance Dot-Com Solutions,clothing,469.92,29.0,SKU-3925,false
+38,Reinvent Scalable Schemas,Electronics,481.45,67.0,SKU-2776,false
+39,Visualize Intuitive Technologies,Books,220.11,,SKU-8149,false
+40,  Morph Mission-Critical Solutions,books,492.2,29.0,SKU-4114,1
+41,Facilitate Synergistic Channels,Electronics,26.97,111.0,SKU-9518,false
+42,Transform Front-End E-Business,Clothing,344.99,189.0,SKU-6967,False
+43,Productize Dynamic Vortals,Books,39.64,170.0,SKU-6143,0
+44,Grow Open-Source E-Business,clothing,424.77 EUR,184.0,SKU-9308,1
+45,Scale B2C Networks,books,335.11,83.0,SKU-5844,false
+46,Exploit Turn-Key E-Commerce,books,68.01,107.0,SKU-3851,false
+47,Implement Turn-Key Action-Items,home,286.71,103.0,SKU-1006,1
+48,  Unleash User-Centric Niches,Books,147.02,110.0,SKU-8618,False
+49,Enable Open-Source Info-Mediaries,home,223.87,54.0,SKU-8752,0
+50,Grow Synergistic Content,clothing,89.0,21.0,SKU-9445,0
+51,Engage Sticky Roi,electronics,318.31,85.0,sku4848,0
+52,E-Enable Efficient Channels,ELECTRONICS,158.66,,SKU-1400,True
+53,Morph Intuitive Partnerships,electronics,126.2,121.0,SKU-8461,False
+54,Iterate Proactive Applications,Clothing,443.64,147.0,SKU-7291,False
+55,Revolutionize Killer Paradigms,Electronics,202.83 EUR,37.0,SKU-2746,False
+56,  Incubate Collaborative Experiences,home,113.33,178.0,SKU-8611,True
+57,Disintermediate Impactful E-Services,Home,280.92,31.0,SKU-3184,False
+58,Enable Plug-And-Play Mindshare,Books,335.45,143.0,SKU-8251,false
+59,Strategize Bricks-And-Clicks Mindshare,books,408.43,129.0,SKU-9976,False
+60,Repurpose Web-Enabled E-Business,Home,449.12,190.0,SKU-8373,1
+61,Engineer Global Systems,clothing,377.13,163.0,SKU-9540,False
+62,Reinvent B2B Info-Mediaries,Home,315.24,70.0,SKU-2269,0
+63,Integrate Magnetic Models,Books,146.44,69.0,SKU-6238,false
+64,  Optimize Back-End Relationships,Clothing,44.89,38.0,SKU-7275,0
+65,Integrate Best-Of-Breed Deliverables,electronics,80.64,,SKU-7797,False
+66,Synergize Collaborative Bandwidth,books,168.79 EUR,119.0,SKU-2020,true
+67,Integrate World-Class Platforms,Electronics,417.28,99.0,SKU-7232,False
+68,E-Enable Back-End Applications,clothing,7.92,90.0,sku7389,False
+69,Synergize Enterprise Relationships,home,271.42,188.0,SKU-4613,False
+70,Mesh Dot-Com Architectures,Home,113.61,111.0,SKU-1475,False
+71,Mesh Wireless Convergence,books,171.38,173.0,SKU-3704,False
+72,  Synthesize Compelling Metrics,home,460.17,159.0,SKU-1441,False
+73,Deliver Global Systems,Electronics,297.99,169.0,SKU-2375,0
+74,Enhance Intuitive Mindshare,ELECTRONICS,217.16,118.0,SKU-1823,1
+75,Architect B2C Roi,Home,192.66,54.0,SKU-6355,1
+76,Disintermediate 24/7 Web Services,clothing,381.81,97.0,SKU-7906,1
+77,Deploy Open-Source Initiatives,Electronics,418.28 EUR,120.0,SKU-9837,True
+78,Innovate Compelling Info-Mediaries,Clothing,499.95,,SKU-2124,0
+79,Benchmark Granular Experiences,Clothing,24.93,7.0,SKU-4266,True
+80,  Utilize Interactive Paradigms,ELECTRONICS,312.56,61.0,SKU-8758,0
+4,Deploy Wireless Infrastructures,Electronics,99.0,55.0,SKU-9883,True
+16,  Cultivate Cutting-Edge Platforms,Home,187.92,40.0,SKU-9900,0

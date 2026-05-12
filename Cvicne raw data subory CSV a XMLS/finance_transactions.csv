@@ -1,0 +1,204 @@
+﻿transaction_id,client_id,amount,currency,type,status,date,note
+1,101,19000.62,CZK,Credit,Failed,2026-03-14,
+2,47,19481.71,EUR,credit,completed,2025-02-26,
+3,57,47148.07,EUR,Transfer,COMPLETED,2025-02-19,
+4,12,5112.47,eur,debit,pending,2025-12-03,
+5,66,27849.69,USD,credit,completed,2025-07-03,Mädchen helfen Oma beide draußen.
+6,71,4481.85,EUR,Debit,failed,2026-03-17,
+7,50,39222.15,EUR,CREDIT,pending,2025-06-19,
+8,11,19390.59,CZK,Debit,Completed,2025-07-01,
+9,22,28598.45,CZK,debit,Completed,2025-02-01,
+10,39,6942.86,EUR,debit,Completed,2024-08-25,Steigen halten beißen rennen heißen spät.
+11,56,3164.29,EUR,debit,COMPLETED,23-04-2024,
+12,10,24212.08,EUR,CREDIT,Completed,2025-09-21,
+13,64,36045.25,usd,Debit,Completed,2025-03-22,
+14,18,22893.62,EUR,credit,pending,2026-02-01,
+15,80,16611.53,USD,Transfer,COMPLETED,2025-01-22,Design night respond watch space provide off.
+16,56,22011.71,CZK,Debit,Completed,2025-08-27,
+17,78,15022.46,CZK,Credit,pending,2024-12-04,
+18,51,,EUR,CREDIT,Failed,2024-09-07,
+19,63,34748.19,usd,Transfer,Completed,2025-11-23,
+20,36,16294.99,USD,CREDIT,completed,2024-05-20,Danach Kind neun neben Ferien am.
+21,26,46603.43,usd,Debit,Completed,2025-07-30,
+22,71,34085.95,EUR,transfer,pending,11-02-2026,
+23,27,47148.8,USD,Transfer,COMPLETED,2024-07-20,
+24,9,41564.26,USD,transfer,pending,2024-05-13,
+25,39,6959.82,eur,CREDIT,Failed,2024-12-18,Like stop indeed feeling.
+26,55,7708.01,USD,credit,pending,2025-10-18,
+27,62,49535.04,usd,debit,failed,2024-06-13,
+28,89,25331.13,USD,Debit,completed,2025-04-11,
+29,47,39536.26,CZK,Transfer,failed,2025-01-28,
+30,11,29691.4,EUR,Transfer,Completed,2025-04-11,Visit bill difference stay catch year.
+31,46,32880.42,eur,transfer,failed,2024-09-28,
+32,83,2215.79,CZK,transfer,pending,2024-09-02,
+33,43,48340.59,USD,credit,completed,03-12-2025,
+34,29,4931.23,usd,transfer,failed,2026-02-27,
+35,89,27900.11,usd,Credit,pending,2024-10-22,Answer fight enough reach.
+36,60,,CZK,Debit,Failed,2024-10-30,
+37,45,25023.79,EUR,debit,completed,2026-02-21,
+38,11,14772.32,EUR,Transfer,Failed,2024-07-12,
+39,40,7084.62,EUR,debit,Completed,2026-01-06,
+40,45,26056.22,USD,credit,pending,2025-07-25,Month official product with focus room difficult.
+41,58,36099.98,EUR,credit,COMPLETED,2025-10-28,
+42,91,2235.11,EUR,credit,COMPLETED,2024-12-30,
+43,87,32398.85,eur,transfer,Completed,2025-08-11,
+44,71,25800.18,eur,CREDIT,failed,06-09-2025,
+45,60,21319.04,eur,Transfer,pending,2026-03-27,Actually democratic stand could bit.
+46,24,31488.39,CZK,transfer,pending,2025-12-02,
+47,95,19779.72,usd,Credit,pending,2025-10-23,
+48,50,29610.57,EUR,transfer,Completed,2025-09-15,
+49,97,10290.02,CZK,Transfer,completed,2025-12-26,
+50,103,28867.82,usd,Credit,COMPLETED,2026-02-13,History laugh per data hundred attention.
+51,59,16299.92,EUR,CREDIT,Failed,2024-08-14,
+52,68,43131.96,CZK,CREDIT,failed,2026-03-12,
+53,51,19432.57,usd,credit,COMPLETED,2024-08-01,
+54,59,,usd,Credit,Failed,2025-10-12,
+55,39,35299.71,usd,Debit,completed,28-04-2024,Freuen Land Mama Haare.
+56,41,33605.83,EUR,Credit,COMPLETED,2026-02-22,
+57,48,5848.33,CZK,Credit,failed,2024-12-31,
+58,77,19423.78,eur,Debit,pending,2024-08-04,
+59,63,21152.52,CZK,Debit,Failed,2025-04-22,
+60,23,45958.13,usd,Credit,pending,2025-03-04,Auto Herz wichtig Eltern.
+61,24,14442.45,EUR,Transfer,pending,2025-02-04,
+62,46,30970.88,EUR,debit,Completed,2025-05-08,
+63,50,9757.23,usd,Debit,Failed,2025-04-30,
+64,88,24749.0,USD,debit,Failed,2025-08-26,
+65,63,41994.75,eur,credit,failed,2026-03-18,Apply along entire assume.
+66,98,1544.0,eur,CREDIT,completed,03-11-2024,
+67,69,13743.37,EUR,Credit,pending,2025-01-27,
+68,99,28282.96,USD,Debit,failed,2024-09-23,
+69,15,5661.44,EUR,Transfer,failed,2025-04-12,
+70,47,41164.32,usd,Transfer,completed,2025-11-11,Schuh gab Abend einfach weit.
+71,57,38000.45,usd,Credit,pending,2025-10-08,
+72,107,,CZK,Transfer,Completed,2024-08-18,
+73,5,14886.15,USD,CREDIT,COMPLETED,2024-08-15,
+74,12,43110.12,USD,Transfer,completed,2026-02-02,
+75,31,38781.81,eur,Transfer,Failed,2026-03-20,Glas dürfen fressen besser schenken verlieren.
+76,45,29396.61,CZK,Debit,Failed,2026-03-25,
+77,79,21408.92,eur,Transfer,Completed,07-04-2025,
+78,104,40676.68,EUR,Debit,COMPLETED,2025-03-27,
+79,77,26614.51,usd,Credit,COMPLETED,2025-12-05,
+80,38,48950.03,EUR,Debit,COMPLETED,2025-12-17,Simple beyond sound friend.
+81,66,47619.91,CZK,Transfer,completed,2025-10-05,
+82,97,6780.31,USD,credit,COMPLETED,2025-08-13,
+83,17,43352.51,CZK,Transfer,Completed,2025-01-07,
+84,92,12484.61,EUR,Transfer,Completed,2025-12-12,
+85,87,38073.92,USD,debit,Completed,2025-09-17,Freund Loch Papa der.
+86,35,28871.7,CZK,debit,pending,2026-01-01,
+87,82,22600.13,EUR,debit,failed,2025-01-02,
+88,89,37490.37,EUR,debit,pending,11-10-2024,
+89,1,16365.14,CZK,credit,Failed,2025-01-03,
+90,82,,CZK,transfer,COMPLETED,2024-09-04,Zahl vorbei schenken weg.
+91,102,42505.46,usd,debit,Completed,2026-04-07,
+92,106,48406.46,eur,debit,COMPLETED,2024-10-26,
+93,37,16143.93,EUR,Debit,failed,2026-01-25,
+94,110,6530.58,USD,Transfer,COMPLETED,2025-06-20,
+95,98,44707.84,EUR,credit,completed,2024-11-28,Mind gas partner item lawyer why society eye.
+96,108,31309.35,USD,credit,completed,2025-04-15,
+97,21,46471.71,USD,debit,completed,2025-03-22,
+98,55,49591.92,eur,transfer,Completed,2025-05-03,
+99,39,44107.51,eur,Transfer,COMPLETED,15-07-2025,
+100,47,4667.91,EUR,credit,COMPLETED,2024-11-23,Stunde als auch führen.
+101,84,33225.78,eur,credit,pending,2024-05-24,
+102,93,31280.59,CZK,Transfer,Completed,2024-04-19,
+103,12,21462.12,CZK,credit,completed,2025-08-11,
+104,10,10671.85,eur,Debit,Completed,2024-05-22,
+105,57,25972.69,EUR,credit,Failed,2024-12-28,Ruhig sonst die bis fröhlich öffnen Ende.
+106,16,17179.36,USD,transfer,Completed,2024-11-14,
+107,30,23885.53,USD,credit,Failed,2025-03-27,
+108,14,,EUR,CREDIT,COMPLETED,2024-10-14,
+109,100,6857.33,eur,transfer,Failed,2025-02-18,
+110,68,7143.51,usd,credit,failed,28-01-2026,Geld Musik schenken Gesicht Nacht Schiff er dazu.
+111,57,32501.36,EUR,transfer,Completed,2024-11-22,
+112,20,31404.37,USD,Debit,Failed,2024-11-19,
+113,28,22119.75,EUR,credit,Completed,2025-05-20,
+114,76,37622.53,CZK,debit,COMPLETED,2025-11-08,
+115,41,48162.47,eur,Credit,COMPLETED,2024-06-25,Lernen schlafen halten haben krank Wort.
+116,32,32231.38,usd,Debit,failed,2024-05-06,
+117,37,36059.26,CZK,credit,Failed,2026-03-16,
+118,27,43791.48,usd,Debit,failed,2024-06-19,
+119,51,9433.14,EUR,transfer,completed,2025-07-09,
+120,102,39190.3,eur,debit,pending,2025-11-12,Ob Weg Wagen Ball.
+121,64,5638.07,CZK,Debit,completed,17-07-2024,
+122,2,26414.8,EUR,CREDIT,Completed,2025-03-20,
+123,108,19342.53,usd,debit,COMPLETED,2025-12-20,
+124,23,27318.26,USD,Transfer,completed,2024-05-25,
+125,9,835.45,EUR,CREDIT,Completed,2024-12-15,Not real ten building once.
+126,8,,USD,Debit,COMPLETED,2025-09-10,
+127,65,31428.91,USD,debit,Failed,2025-05-31,
+128,82,20114.47,usd,Debit,failed,2024-07-24,
+129,11,7634.87,EUR,credit,failed,2024-11-21,
+130,104,46046.32,eur,Debit,COMPLETED,2025-09-23,Perhaps customer attack check they mind easy.
+131,82,19537.18,CZK,transfer,Failed,2025-03-28,
+132,90,3306.69,USD,transfer,Completed,26-01-2025,
+133,12,2896.24,USD,credit,pending,2024-11-21,
+134,8,30615.23,EUR,transfer,Failed,2026-04-04,
+135,23,32902.96,EUR,credit,Failed,2025-12-22,Schicken versuchen nächste jetzt Opa einfach tragen rennen.
+136,2,6861.45,eur,debit,COMPLETED,2025-04-24,
+137,101,26150.75,CZK,CREDIT,Completed,2025-03-30,
+138,96,18594.1,EUR,transfer,completed,2024-11-13,
+139,4,38571.74,EUR,Transfer,pending,2026-03-18,
+140,9,13599.76,EUR,transfer,failed,2025-01-09,Hier Stunde Kopf Tier deshalb führen.
+141,64,31377.01,USD,Debit,COMPLETED,2025-06-02,
+142,110,2772.9,usd,Credit,COMPLETED,2025-06-14,
+143,99,7866.34,EUR,Debit,Failed,31-07-2025,
+144,30,,CZK,Debit,completed,2024-05-17,
+145,2,2202.85,eur,credit,pending,2026-03-20,Fuß Zug halten verstecken lernen grün Schule.
+146,20,18199.46,eur,Transfer,completed,2025-04-26,
+147,92,27643.69,CZK,transfer,pending,2025-08-08,
+148,32,11226.54,USD,transfer,COMPLETED,2025-08-08,
+149,10,13563.63,usd,CREDIT,completed,2025-03-17,
+150,7,25102.55,eur,Credit,failed,2024-11-05,Bein uns lassen wünschen nie eigentlich.
+151,52,49070.71,EUR,debit,COMPLETED,2024-07-19,
+152,40,38676.6,EUR,credit,failed,2025-06-20,
+153,48,22837.85,eur,CREDIT,failed,2025-06-17,
+154,95,39225.58,usd,Credit,pending,04-06-2024,
+155,64,18414.31,eur,transfer,failed,2025-12-29,Benefit blood various live service.
+156,32,38024.35,eur,credit,pending,2024-07-02,
+157,70,1196.49,EUR,transfer,Failed,2025-09-30,
+158,43,43860.05,EUR,Transfer,Failed,2025-10-20,
+159,95,18814.37,CZK,CREDIT,completed,2026-02-19,
+160,31,10260.51,USD,debit,completed,2025-07-07,Suggest authority shake.
+161,19,48627.99,CZK,CREDIT,completed,2026-02-20,
+162,30,,usd,debit,Failed,2024-07-03,
+163,59,44779.0,CZK,credit,failed,2025-01-17,
+164,18,4779.75,CZK,Transfer,pending,2024-09-06,
+165,73,3742.45,EUR,debit,Failed,01-03-2025,Erde Dorf Tier Tante Eis.
+166,31,48210.95,EUR,CREDIT,COMPLETED,2025-07-19,
+167,51,46302.17,CZK,Transfer,Failed,2024-09-11,
+168,58,16313.25,EUR,Credit,completed,2026-01-28,
+169,18,47177.79,usd,credit,Completed,2025-11-03,
+170,58,5283.78,USD,CREDIT,pending,2024-12-21,Uhr möglich lachen Haare nämlich.
+171,46,6037.72,eur,debit,COMPLETED,2025-11-22,
+172,110,23167.87,EUR,credit,Completed,2025-02-22,
+173,39,40380.04,CZK,transfer,failed,2026-01-14,
+174,107,2017.45,EUR,Credit,completed,2024-07-17,
+175,46,35558.16,USD,Debit,completed,2024-06-28,Bald mehr an traurig gab.
+176,34,33859.49,eur,credit,pending,26-01-2025,
+177,72,42730.21,CZK,Debit,Completed,2024-06-04,
+178,14,4737.17,eur,credit,completed,2026-03-24,
+179,100,3084.4,eur,Credit,Completed,2025-05-11,
+180,48,,CZK,transfer,Failed,2025-12-30,Nämlich Mensch was Name Winter zur.
+181,76,4202.89,EUR,Transfer,completed,2024-05-09,
+182,9,1090.99,eur,transfer,pending,2024-10-23,
+183,12,40465.12,EUR,credit,completed,2026-01-25,
+184,7,47114.09,eur,Debit,pending,2024-07-26,
+185,51,41084.45,USD,credit,pending,2026-02-20,Management south nor particular strong.
+186,23,34160.96,EUR,Credit,Completed,2024-12-24,
+187,58,13749.81,eur,credit,failed,11-03-2026,
+188,32,30959.21,CZK,CREDIT,pending,2026-01-24,
+189,71,20600.2,USD,credit,completed,2026-03-08,
+190,18,13989.52,USD,Credit,Failed,2025-09-26,Market different go.
+191,68,44232.74,eur,transfer,failed,2024-11-23,
+192,49,39742.52,CZK,CREDIT,pending,2024-05-01,
+193,63,27226.35,EUR,Debit,failed,2024-05-05,
+194,35,16080.9,eur,credit,COMPLETED,2025-05-11,
+195,4,29856.22,EUR,credit,pending,2025-08-27,Lot hit help by red near break.
+196,99,26472.09,usd,Credit,Completed,2026-01-31,
+197,85,5007.62,eur,CREDIT,failed,2024-12-29,
+198,95,,EUR,Transfer,Completed,01-03-2025,
+199,103,28785.03,USD,CREDIT,Completed,2024-10-07,
+200,76,8805.84,EUR,Transfer,Failed,2025-06-20,Section thousand soldier nothing yard address.
+11,56,3164.29,EUR,debit,COMPLETED,23-04-2024,
+51,59,16299.92,EUR,CREDIT,Failed,2024-08-14,
+101,84,33225.78,eur,credit,pending,2024-05-24,

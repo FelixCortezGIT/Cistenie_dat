@@ -1,0 +1,113 @@
+﻿client_id,name,account_number,country,email,risk_level,client_since
+1,Herr Brian Hendriks MBA.,SK5634396131,CZECH REPUBLIC,heiderose92@example.net,,2022-12-05
+2,Sharon Santos,SK8504761698,CZECH REPUBLIC,akoch@example.org,medium,2012-07-12
+3,Herr Klaus-Michael Ruppersberger MBA.,SK2166605339,Czech republic,scheelhans-albert@example.com,Low,2026-04-16
+4,Lea Eberth,SK2041349374,Czech republic,bryan82@example.com,medium,2017-03-13
+5,Joerg Sauer,SK1225447588,Czech republic,tammymerritt@example.org,High,2011-05-16
+6,Betti Benthin,SK8375996697,Germany,denisemiller@example.com,Low,2012-07-23
+7,Heidi Stephens,SK4990452762,Czech Republic,heringkuno@example.org,High,2021-03-06
+8,Kevin Noack-Täsche,SK9434946584,austria,edeltraut88@example.org,high,2021-03-25
+9,Cole Evans,SK3774110439,CZECH REPUBLIC,carrierobinson@example.com,Low,2013-03-21
+10,Karl Heinz Hermighausen,SK5022964382,Czech republic,kseip@example.com,LOW,2012-07-16
+11,Univ.Prof. Brunhilde Reising,SK4949801453,Austria,sotojoseph@example.net,High,2022-01-03
+12,Christian Riddle,SK1160916026,austria,mbauer@example.org,Medium,2015-05-06
+13,Jennifer Murphy,SK6733962236,Slovakia,regina42@example.org,,2011-06-10
+14,Dipl.-Ing. Willibert Döhn B.Sc.,,austria,brianna71@example.net,LOW,2021-10-18
+15,Ljiljana Dippel,SK2171826349,austria,louiswalton@example.org,Low,2023-05-20
+16,Prof. Birgid Heser B.Sc. ,SK1799718923,Germany,douglasbradley@example.com,high,2025-01-25
+17,Univ.Prof. Leif Lindner MBA.,SK4252504650,CZECH REPUBLIC,zandersen@example.com,LOW,2015-06-06
+18,Ing. Manuel Christoph B.Eng.,SK8846861559,Austria,michelle11@example.org,high,2025-06-18
+19,Angela Mitchell,SK1409675904,Slovakia,loefflerguelsen@example.net,LOW,2018-06-27
+20,Luis Bartlett,SK2065354117,austria,vpark@example.com,Medium,2026-03-16
+21,Traci Craig,SK6306523372,Austria,charlesfranco@example.net,Medium,2025-07-30
+22,Dipl.-Ing. Christel Köster B.Sc.,SK5344083406,Germany,marlenreuter@example.org,high,2015-10-12
+23,Diane Adler,SK9856756553,Czech republic,stefanijaekel@example.net,Low,2025-04-28
+24,Hans Georg Albers,SK2317723211,austria,kornelius51@example.org,High,2024-08-23
+25,Adam Jordan,SK3964774623,CZECH REPUBLIC,ricerachel@example.com,Medium,2024-12-26
+26,Matthew Perez,SK3639796200,Germany,kristian56@example.org,medium,2012-12-02
+27,Cathleen Etzold B.Eng.,SK3053775623,Czech Republic,klemtregina@example.net,,2012-12-13
+28,Cemal Kroker,,Germany,sabina02@example.net,High,2025-07-08
+29,Heiko Niemeier,SK4545940090,austria,martinweitzel@example.com,medium,2013-04-06
+30,Beth Cooper,SK7552001193,Slovakia,brettgallegos@example.com,high,2017-10-21
+31,Janin Carsten,SK1481933114,Slovakia,ellafliegner@example.net,medium,2015-01-12
+32,Wendy Wright ,SK6001648993,Czech Republic,willfriedtrapp@example.org,,2014-02-13
+33,Carlos Johnson,SK3921845810,Slovakia,ronaldjensen@example.org,,2016-12-29
+34,Dr. Gunnar Loos MBA.,SK5533921266,Slovakia,tschneider@example.org,LOW,2016-09-29
+35,Dr. Friederike Biggen,SK9837912162,Austria,smithdonna@example.com,,2015-07-28
+36,Heinz-Georg Gorlitz,SK4106464319,CZECH REPUBLIC,vknappe@example.com,High,2012-09-28
+37,Patricia Anderson,SK4506639908,CZECH REPUBLIC,josefine98@example.net,medium,2014-11-12
+38,Klaus-Günter Kraus B.Sc.,SK5489485517,Slovakia,crystalguzman@example.org,high,2014-03-09
+39,Arne Ritter,SK4840638976,Slovakia,isolde73@example.net,,2011-12-13
+40,Michael Snow,SK6528012497,Slovakia,tobias16@example.org,LOW,2017-07-29
+41,Donald Ponce,SK7100408092,Czech Republic,rosemannburghard@example.net,High,2022-05-27
+42,Univ.Prof. Katharine Peukert B.Sc.,,austria,ychristensen@example.net,High,2017-04-21
+43,Ditmar Adler B.A.,SK9934605686,Austria,suarezkrystal@example.com,LOW,2015-11-04
+44,Derrick Wilson,SK1509525588,Germany,fergusonkelly@example.net,High,2025-06-03
+45,Franz Josef Zobel-Birnbaum,SK6576426590,Czech Republic,amandasmith@example.com,High,2016-02-28
+46,Harald Schmidtke-Hornig,SK4536306171,Austria,schombermargita@example.org,medium,2014-07-31
+47,Ing. Zeki Bachmann,SK2486744752,austria,qbautista@example.net,Medium,2023-07-18
+48,Damon Soto ,SK1484664056,Czech republic,tiloheinrich@example.net,High,2016-10-26
+49,Ivo Girschner,SK2033653860,Slovakia,margitgierschner@example.org,Low,2025-06-10
+50,Alisha Martin,SK3550970716,Slovakia,mmcdaniel@example.org,,2012-05-15
+51,Matthew Powell,SK5484962610,Slovakia,morrisonnicholas@example.org,,2023-09-09
+52,Randy Adams,SK3318250726,Czech republic,rosariodaniel@example.net,low,2024-01-31
+53,John Hart,SK2242377075,Czech Republic,leonidkabus@example.com,high,2014-12-12
+54,Albrecht Beyer,SK6312462377,Germany,curtis62@example.org,LOW,2011-08-26
+55,Canan Kitzmann-Sölzer,SK7071194857,Czech republic,sonjastolze@example.com,Medium,2018-09-01
+56,Tyler Campbell,,Slovakia,david10@example.net,LOW,2013-12-17
+57,Univ.Prof. Heini Fischer,SK7682327733,Austria,nicolai14@example.com,low,2025-04-14
+58,Shannon Spence,SK8178361487,Germany,dylan77@example.org,high,2019-12-17
+59,Baptist Junitz-Eckbauer,SK2753459822,Austria,fgomez@example.com,Medium,2021-09-10
+60,Brit Söding,SK7605351600,Austria,fbarnes@example.net,medium,2019-04-12
+61,Kevin Fisher,SK4039019230,Czech republic,youngaaron@example.org,,2019-09-01
+62,Amy Bailey,SK7710396573,Slovakia,steven86@example.org,High,2023-09-16
+63,Autumn Dominguez,SK2668247132,Czech Republic,squinn@example.com,Medium,2012-02-07
+64,Angela Monroe ,SK2593765711,Czech republic,thomasdonald@example.org,medium,2011-06-24
+65,Ralph Gnatz-Möchlichen,SK6448001026,Slovakia,theodore57@example.net,low,2015-08-05
+66,Marvin Munoz,SK3400244542,Slovakia,alexwall@example.net,,2019-08-09
+67,Meryem Heidrich,SK6725038117,Czech republic,joerg-peterdavids@example.net,low,2025-12-17
+68,Jennifer Brown,SK5025070544,Czech republic,marie-louiseweinhage@example.net,Low,2023-07-16
+69,Ing. Margarethe Segebahn MBA.,SK4927495468,austria,bertkoehler@example.net,medium,2014-03-18
+70,Jack Maxwell,,Austria,henckkarl-peter@example.org,medium,2012-04-08
+71,Ellen Arnold,SK8625774078,Germany,josephdavila@example.net,High,2019-09-30
+72,Andreas Jopich,SK6837975356,austria,alan54@example.com,Medium,2016-01-03
+73,Zdenka Ehlert,SK7430757004,Germany,richard81@example.net,Low,2011-08-24
+74,Prof. Sophie Bender B.Eng.,SK6167393219,austria,faithmiller@example.net,high,2025-08-01
+75,Rhonda Pena,SK9786280935,Austria,seth25@example.com,medium,2020-08-22
+76,Tilmann Trub,SK5364631241,Czech Republic,hartwigschmidt@example.net,High,2025-08-29
+77,Romuald Austermühle,SK1654602021,CZECH REPUBLIC,amy17@example.org,high,2015-12-30
+78,Herr Fredy Rust,SK4579265601,Czech republic,dietmar12@example.net,,2015-02-28
+79,Olivia Margraf,SK8823677798,Germany,bonillatracy@example.com,,2017-04-21
+80,Jose Weber ,SK8709361138,austria,david68@example.com,LOW,2024-06-14
+81,Maria Figueroa,SK3097302637,Czech Republic,mooredaniel@example.com,low,2019-11-04
+82,Shane Caldwell,SK5322385617,Slovakia,pmosemann@example.net,LOW,2012-12-04
+83,Sylvia Nielsen,SK9881854670,Czech republic,rolf-peterjuettner@example.org,LOW,2016-06-05
+84,Nikola Weihmann MBA.,,Slovakia,shawn82@example.com,medium,2020-11-22
+85,Kuno Wohlgemut,SK2602884797,austria,klotzlisbeth@example.com,,2014-06-29
+86,Tiffany Sutton,SK1067567428,austria,evi21@example.org,High,2015-05-26
+87,Michael Savage,SK9661772834,Slovakia,jack01@example.com,Medium,2025-09-28
+88,Dr. Hannes Lindner,SK9663561486,CZECH REPUBLIC,sreising@example.org,High,2016-08-11
+89,Karl-Jürgen Zänker,SK1639509845,Czech Republic,sharpbeth@example.org,medium,2021-04-02
+90,Constantin Mielcarek,SK8796286443,CZECH REPUBLIC,hlin@example.net,Medium,2015-03-26
+91,Terri Mathews DDS,SK5634352383,Austria,robinsontiffany@example.com,High,2020-04-21
+92,Tristan Bonilla,SK3426665919,austria,lisa04@example.com,medium,2021-10-12
+93,Dipl.-Ing. Giovanna Kitzmann,SK4641561499,CZECH REPUBLIC,enver27@example.com,low,2013-12-11
+94,Jane Bruce,SK7035624331,Slovakia,hiltraud91@example.org,High,2012-08-20
+95,Jennifer Crawford,SK9830946410,austria,zgordon@example.org,low,2024-01-25
+96,Jesse James ,SK5650101484,Czech Republic,wsampson@example.com,High,2024-11-28
+97,Walther Köster,SK1182758417,Germany,joseph44@example.com,medium,2011-05-09
+98,Ahmet Bauer,,austria,mary89@example.com,Medium,2013-11-05
+99,Prof. Zenon Krein B.A.,SK4969233836,Slovakia,ruststavros@example.org,Medium,2025-12-13
+100,Evan Moore,SK8947526020,Slovakia,mckinneydavid@example.org,low,2023-12-08
+101,Ing. Edgar Davids,SK3521300895,Czech republic,kimcristina@example.net,High,2011-09-16
+102,Allison Gross,SK2285384455,Slovakia,hans-guenter33@example.com,medium,2019-04-28
+103,Renee Gray,SK7616665277,Austria,hoefigdarko@example.org,High,2020-11-12
+104,Timothy Martinez,SK9926778957,Czech Republic,jose21@example.org,high,2023-12-17
+105,John Johnson,SK5714524551,Slovakia,echung@example.org,medium,2016-12-02
+106,Rosalie Fritsch B.A.,SK8617360361,Slovakia,giessgertraut@example.net,low,2013-01-18
+107,Janett Schmiedecke,SK7230065637,CZECH REPUBLIC,aimeescott@example.org,medium,2020-05-19
+108,Paige Robinson,SK6907413963,Germany,harloffanselm@example.com,LOW,2014-08-03
+109,John Ashley,SK7951902330,Austria,volker76@example.net,medium,2025-02-15
+110,Dr. Mohammad Trupp,SK5647317872,Slovakia,ldobes@example.net,LOW,2013-10-10
+7,Heidi Stephens,SK4990452762,Czech Republic,heringkuno@example.org,High,2021-03-06
+29,Heiko Niemeier,SK4545940090,austria,martinweitzel@example.com,medium,2013-04-06

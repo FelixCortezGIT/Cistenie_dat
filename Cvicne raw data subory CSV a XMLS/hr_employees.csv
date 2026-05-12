@@ -1,0 +1,104 @@
+﻿employee_id,full_name,department,position,salary,hire_date,email,contract_type
+1,Ing. Bärbel Radisch MBA.,Operations,Homeopath,5846.0,2020-02-02,ustiebitz@stoll.com,part-time
+2,Prof. Trudel Siering,finance,Programmierer,5641.0,2025-06-20,madeleine14@sauer.de,full-time
+3,Leah Lee,Finance,Designer,7997.0,2024-01-09,steinbergalban@aumann.com,contractor
+4,Univ.Prof. Frieder Hermann B.A.,Marketing,Aeronautical engineer,6832.0,2023-02-23,maysdiane@sampson.com,part-time
+5,Phillip Wong,Marketing,Clinical psychologist,5199.0,2017-02-25,kenneth17@hammond-schwartz.com,part-time
+6,Antonio Price,hr,Further education lecturer,4276.0,2017-11-28,thiesbohnbach@gute.com,part-time
+7,Leonhard Seifert B.Sc.,Finance,Fleischer,4907.0,2017-05-17,jonesashley@waters-smith.info,FULL-TIME
+8,Mary Adams,it,Mechaniker,4996.0,26.10.2022,zmendoza@norman.com,contractor
+9,Karlfried Reising,it,Programmierer,3588.0,2025-10-31,obluemel@conradi.de,Full-Time
+10,Marga Gutknecht,hr,"Surveyor, building",7126.0,2017-02-03,tguerrero@price.info,full-time
+11,Christoph Beier B.A.,Finance,"Therapist, horticultural",2247.0,2025-02-21,,full-time
+12,Maria Porter,Finance,Asphaltbauer,,2021-03-08,brian06@lewis.net,contractor
+13,Crystal Jones,it,Records manager,7552.0,2025-09-10,nmeadows@sanchez.com,Full-Time
+14,Samantha Davis,IT,"Therapist, art",6057.0,2018-01-05,wilsonbrooke@walker.biz,Part-Time
+15,Vincent Lewis,it,"Therapist, horticultural",6100.0,2017-07-01,bryan42@jackson-wood.com,contractor
+16,Richard Chen,finance,Chirurgiemechaniker,2501.0,23.09.2018,amiller@howe.org,FULL-TIME
+17,Edward Fechner-Schwital,finance,Winzer,6950.0,2020-06-14,lhenck@suessebier.com,contractor
+18,RACHEL BAILEY,Operations,"Surveyor, insurance",1921.0,2023-06-18,davidmoreno@montgomery.net,Part-Time
+19,Cory Hogan,it,Medizininformatiker,4059.0,2020-12-06,elizabethwilliams@diaz.org,full-time
+20,Casey Floyd,Marketing,Schornsteinfeger,6234.0,2016-09-21,jacobsonjennifer@riley.com,Full-Time
+21,Herr Ernest Walter MBA.,hr,Mining engineer,6879.0,2024-01-30,ruiztodd@thomas-reilly.info,Full-Time
+22,Cory Howard,it,Drogist,2386.0,2020-02-29,,Part-Time
+23,Brian Owens,Finance,Chirurgiemechaniker,4511.0,2017-07-24,renatahuebel@franke.com,FULL-TIME
+24,Knud Mühle MBA.,Marketing,Altenpfleger,,25.02.2017,ivojunken@sager.com,part-time
+25,John Mack,IT,"Physicist, medical",6095.0,2020-06-20,gtextor@oderwald.com,Part-Time
+26,David Duarte,Operations,Quantity surveyor,6888.0,2025-10-16,huldamies@weinhold.com,full-time
+27,Jennifer Clarke,Operations,Arzt,2977.0,2020-12-05,cruzhannah@johnson.org,contractor
+28,Gabriela Randolph,Operations,Augenoptiker,7745.0,2024-03-02,ndiaz@diaz.net,FULL-TIME
+29,George Fernandez,IT,Erzieher,4375.0,2021-11-24,michael48@henderson.info,Full-Time
+30,Joseph Bryan,finance,Pilot,2673.0,2021-04-21,grafrosalia@christoph.com,full-time
+31,Donald Terry,IT,Chemikant,2662.0,2025-11-15,cartertara@huynh.com,full-time
+32,Crystal Meza,Marketing,Pfleger,7612.0,07.03.2018,zeljko98@martin.de,part-time
+33,Ing. Enver Nette,hr,Forstwirt,4939.0,2021-12-18,,FULL-TIME
+34,Waltraut Geisel B.A.,it,Designer,2789.0,2017-10-09,evanwilson@andrews-alexander.com,FULL-TIME
+35,Vanessa Hernandez,it,Chirurgiemechaniker,7411.0,2018-05-05,barthrouven@wilmsen.de,Part-Time
+36,ISOLDE HOFFMANN,Finance,Systems analyst,,2016-05-01,heike17@etzold.com,full-time
+37,Brandon Brown,HR,Television production assistant,2774.0,2016-07-15,james18@rhodes-rosario.net,Part-Time
+38,Ulf Stahr,Finance,Mechaniker,1907.0,2018-03-27,xwood@mitchell.com,FULL-TIME
+39,Stephen Figueroa,finance,Pilot,5129.0,2025-01-12,magritvogt@vollbrecht.com,part-time
+40,Anne-Katrin Schäfer,hr,Bäcker,6473.0,15.05.2018,rfowler@thompson-murray.org,part-time
+41,Kreszentia Noack,Marketing,Immigration officer,3737.0,2018-04-13,vroemer@hauffer.com,Part-Time
+42,Mato Stadelmann,it,Pfleger,2432.0,2018-12-01,pknox@johnson.info,part-time
+43,Prof. Ilonka Heser MBA.,Operations,Midwife,2408.0,2022-04-12,francisco02@murray-steele.com,contractor
+44,Univ.Prof. Tilly Klemm,hr,Horticultural consultant,7058.0,2016-10-26,,Part-Time
+45,Pamela White,Operations,Tour manager,6965.0,2021-08-02,monique44@wolfe.com,full-time
+46,Pia Neureuther,finance,Programmierer,3306.0,2016-06-02,robinsonwesley@pope.org,Part-Time
+47,Carlos Smith,IT,Friseur,1948.0,2020-06-18,margotmargraf@preiss.de,Full-Time
+48,Barbara Anderson,Marketing,Ergonomist,,23.05.2023,hassanehlert@loeffler.com,Full-Time
+49,Frau Cynthia Dörr,Operations,Scientific laboratory technician,7760.0,2016-06-23,qwilson@jones.com,FULL-TIME
+50,Christina Lambert,Finance,Chemical engineer,4187.0,2024-02-12,stacy55@wyatt.org,full-time
+51,Kenneth Smith,finance,"Engineer, agricultural",5574.0,2021-05-04,sabinewende@adolph.com,Full-Time
+52,Mathilde Schacht,finance,Printmaker,2558.0,2025-06-30,maryzavala@lewis-perez.com,Part-Time
+53,Kathleen Ward,Marketing,Artist,7264.0,2017-07-11,tristan64@burke-collins.info,Part-Time
+54,DR. SIMONA BOHNBACH,it,Mathematiker,6077.0,2021-10-30,lutztravis@sanders.com,full-time
+55,Pawel Geisler,IT,Medical physicist,4752.0,2017-09-21,,part-time
+56,Eric Löffler,hr,Florist,1653.0,05.09.2019,eklemm@schleich.de,full-time
+57,Ashley King,finance,Elektroniker,4064.0,2021-05-28,garciabrian@jimenez.com,Part-Time
+58,Gereon Scholtz-Scholz,finance,Camera operator,4813.0,2022-05-03,sgutknecht@oestrovsky.de,FULL-TIME
+59,Amanda Jordan,finance,Music therapist,2443.0,2021-09-18,monika67@beier.org,full-time
+60,James Gallagher,HR,Krankenschwester,,2021-03-16,amandabluemel@hesse.de,Part-Time
+61,Anna-Marie Baum,it,"Conservation officer, historic buildings",5269.0,2023-12-15,mara90@karge.de,full-time
+62,Ing. Ann-Kathrin Speer,Finance,Firefighter,5077.0,2020-07-28,brittany14@morgan.net,Full-Time
+63,Ing. Alexa Textor,finance,Asphaltbauer,5069.0,2016-08-30,yrudolph@ruppersberger.de,Part-Time
+64,Jonathan Hubbard,finance,Chirurgiemechaniker,2144.0,14.03.2023,wera63@schuster.net,FULL-TIME
+65,Romy Hecker-Scholz,it,Technical sales engineer,7609.0,2018-12-10,joshua98@simmons-reed.com,Full-Time
+66,Univ.Prof. Katja Johann,HR,Patent examiner,4228.0,2021-05-03,,full-time
+67,Herr Lukas Tlustek,Finance,Technical author,5681.0,2018-10-20,gesaweimer@heuser.de,Part-Time
+68,Caren Hendriks B.A.,Marketing,Polizist,5677.0,2021-07-06,natalija13@hethur.com,FULL-TIME
+69,Brian Lee,HR,Insurance claims handler,4376.0,2023-02-28,broemer@seifert.com,Full-Time
+70,Margret Rogner,HR,Archivist,2342.0,2017-08-27,bluemelnatalie@johann.org,FULL-TIME
+71,Marie-Therese Sontag,HR,Occupational psychologist,3116.0,2025-04-18,danielnavarro@boyd.net,Part-Time
+72,BRYAN ROMAN,Finance,Koreanistiker,,03.04.2021,grobinson@lewis.info,Full-Time
+73,James Fry MD,hr,Krankenschwester,7831.0,2018-10-31,natasha25@baldwin-underwood.com,part-time
+74,Rachel Allen,hr,Friseur,7680.0,2024-09-14,reinhardtnuray@margraf.com,contractor
+75,Antje Wernecke,it,Human resources officer,6124.0,2025-07-26,ruthwelch@sullivan.info,contractor
+76,Frau Ruthild Fritsch,HR,Schornsteinfeger,4089.0,2023-08-30,robert85@neal-gill.com,part-time
+77,Curtis Torres,hr,Clinical psychologist,2059.0,2024-03-14,,part-time
+78,Melissa Sparks,Operations,Pilot,6672.0,2018-10-14,johanngerlach@scheel.de,FULL-TIME
+79,Clarissa Kreusel,IT,Elektroniker,6344.0,2018-04-11,leblancdeborah@perez.com,FULL-TIME
+80,Carin Cichorius,Finance,Chirurgiemechaniker,5656.0,14.10.2016,higginsryan@wilcox-snyder.com,FULL-TIME
+81,Nathalie Oderwald,hr,Binnenschiffer,5282.0,2018-03-13,dorithande@vogt.de,full-time
+82,William Young,it,Fachinformatiker,1966.0,2020-05-17,acaspar@eimer.de,FULL-TIME
+83,Anneke Dehmel,Finance,Associate Professor,2128.0,2023-06-04,wernerklapp@steckel.com,Part-Time
+84,Zeynep Kroker,finance,Binnenschiffer,,2018-10-29,jorgegordon@humphrey-anderson.com,part-time
+85,William Porter,IT,Mathematiker,6254.0,2017-09-15,samira49@plath.com,part-time
+86,Karl-Hans Sontag-Schuster,Marketing,Augenoptiker,6183.0,2023-08-29,brianwhite@green-mccarthy.biz,FULL-TIME
+87,Heinz-Wilhelm Klemm,hr,Arzt,6456.0,2026-03-30,tschentschernuray@ebert.com,Part-Time
+88,Nicole Carson,IT,Television production assistant,2735.0,21.12.2024,,part-time
+89,Billy Tate,it,Land/geomatics surveyor,2347.0,2021-07-20,erin16@garza-bean.com,contractor
+90,DIPL.-ING. MADELEINE HEUSER B.SC.,HR,Artist,2190.0,2016-07-30,trudel92@biggen.org,full-time
+91,Lindsey Davis,hr,Designer,3529.0,2024-04-09,ndavis@price.com,part-time
+92,Univ.Prof. Rosa-Maria Jessel,HR,Mechanical engineer,5793.0,2017-06-30,william77@alvarez-hart.biz,FULL-TIME
+93,Dipl.-Ing. Mahmoud Loos,Operations,Architect,4554.0,2023-11-09,ostey@striebitz.com,part-time
+94,Jeffrey Solomon,it,Friseur,4848.0,2021-07-25,gabrielleevans@mills.org,contractor
+95,Kayla Gutierrez,IT,Fleischer,6397.0,2021-10-19,cosima18@drewes.de,contractor
+96,Attila Lindau,it,Informatiker,,25.02.2024,zscholz@karge.com,full-time
+97,Heinz-Günther Reinhardt,Finance,"Accountant, chartered public finance",4200.0,2023-10-05,aumannguenther@mueller.de,Part-Time
+98,Ludmila Schmiedt,finance,Mechaniker,7057.0,2024-12-23,eberthfranz-josef@grein.com,FULL-TIME
+99,Mr. David Wilkinson,HR,Chartered legal executive (England and Wales),3564.0,2024-11-17,,FULL-TIME
+100,Alex Martin,HR,"Producer, television/film/video",2167.0,2023-12-27,cbaerer@henk.net,FULL-TIME
+8,Mary Adams,it,Mechaniker,4996.0,26.10.2022,zmendoza@norman.com,contractor
+31,Donald Terry,IT,Chemikant,2662.0,2025-11-15,cartertara@huynh.com,full-time
+56,Eric Löffler,hr,Florist,1653.0,05.09.2019,eklemm@schleich.de,full-time

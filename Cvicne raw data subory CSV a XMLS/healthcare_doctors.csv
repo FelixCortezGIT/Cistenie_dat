@@ -1,0 +1,42 @@
+﻿doctor_id,name,specialization,years_experience,department,email,available
+1,Anne Conley,Cardiology,3.0,Drive,junkenmariusz@example.net,no
+2,Taylor Foster,Pediatrics,22.0,Embrace,marcus06@example.net,No
+3,Hans-Ludwig Hahn,general practice,30.0,Enhance,aziz13@example.com,no
+4,Frau Michaela Reising B.A.,general practice,33.0,Transform,mehmetgertz@example.net,no
+5,Frau Gerhild Bähr MBA.,Neurology,21.0,Deliver,andrewblake@example.org,no
+6,Univ.Prof. Heinz Wernecke B.A.,General Practice,20.0,Streamline,hansgeorg26@example.org,1
+7,Nicholas Hinton,Neurology,33.0,Extend,franka08@example.com,1
+8,Erdal Wagner,general practice,32.0,Facilitate,lauriehorton@example.org,0
+9,Claudia Margraf,general practice,20.0,Optimize,waltersdonald@example.org,No
+10,Kevin Guerra,Cardiology,,Incentivize,gregor33@example.com,Yes
+11,Elizabeth Ray,Neurology,8.0,Empower,kkostolzin@example.com,No
+12,Prof. Ljudmila Wähner,general practice,20.0,Engineer,fsimmons@examplecom,0
+13,Casey James,Pediatrics,2.0,Target,kadefranz-xaver@example.net,1
+14,Curt Grein Groth B.Sc.,General Practice,17.0,Cultivate,vkroker@example.com,0
+15,  Ing. Manuela Schacht B.Sc.,general practice,15.0,Matrix,hans-karlwiek@example.com,0
+16,Josefine Tröst,Cardiology,31.0,Whiteboard,pwaehner@example.org,no
+17,Veli Klotz,general practice,25.0,Scale,jaroslavhentschel@example.net,no
+18,Ray Newman,Pediatrics,16.0,Strategize,bmartin@example.com,yes
+19,Liesa Jäntsch-Wagner,general practice,8.0,Engineer,julianweiss@example.org,no
+20,Adolfine Geisler,Cardiology,,Implement,ssoelzer@example.net,No
+21,Dr. Hans-Günther Gotthard,Neurology,27.0,Aggregate,nbradley@example.org,no
+22,Clayton Malone,General Practice,14.0,Productize,christophermiller@example.org,No
+23,Günter Becker,general practice,31.0,Syndicate,brownkaren@example.org,0
+24,Joseph Smith,Pediatrics,4.0,Re-Contextualize,xkallert@examplenet,0
+25,Rosita Henck,cardiology,34.0,Repurpose,morgan10@example.com,no
+26,Aleksej Schleich-Eberhardt,general practice,21.0,Scale,apieper@example.net,0
+27,Mark Mcmahon,General Practice,34.0,Utilize,mheintze@example.com,No
+28,Halil Lorch,Neurology,12.0,Repurpose,ingetrautfechner@example.net,No
+29,Robert Turner,general practice,22.0,Leverage,ingmarhahn@example.org,1
+30,  Wyatt Johnson,Neurology,,Productize,elizabeth12@example.net,0
+31,Robin Süßebier,Pediatrics,17.0,Cultivate,nicholas68@example.com,1
+32,Brian Miller,General Practice,13.0,Facilitate,moniquejohann@example.com,no
+33,Kevin Lee,Neurology,20.0,Brand,danielsmith@example.com,no
+34,Ryszard Hübel-Hartmann,Neurology,19.0,Innovate,justinestadelmann@example.net,0
+35,Ellen Mooney,cardiology,32.0,Empower,ycarter@example.org,Yes
+36,Sebastian Trubin-Häring,General Practice,23.0,Scale,qjacob@exampleorg,1
+37,Gail Gregory,Pediatrics,18.0,Engineer,justin38@example.com,Yes
+38,Paul Carpenter,Cardiology,35.0,Iterate,scottolson@example.org,No
+39,Paul Moss,General Practice,23.0,Disintermediate,bclements@example.net,no
+40,Anne Mccann,Neurology,,Streamline,ofischer@example.net,yes
+1,Anne Conley,Cardiology,3.0,Drive,junkenmariusz@example.net,no

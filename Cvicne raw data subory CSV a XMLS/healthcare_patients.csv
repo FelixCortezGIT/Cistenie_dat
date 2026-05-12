@@ -1,0 +1,133 @@
+﻿patient_id,name,age,diagnosis,visit_date,blood_type,insurance
+1,Jose Lee,21.0,HYPERTENSION,2025-06-07,,NO
+2,Sandra Miller,80.0,HYPERTENSION,2024-08-26,b-,No
+3,Jeremy Wood,6.0,Flu,2024-07-25,O+,NO
+4,Lidija Ortmann,31.0,,2025-01-20,a+,no
+5,Dr. Bruni Pärtzelt,58.0,Diabetes,2026-04-13,a+,Yes
+6,Yusuf Tlustek-Peukert,40.0,,2024-09-29,,Yes
+7,Frau Nathalie Franke B.Eng.,48.0,,2025-05-17,AB+,
+8,Burckhard Koch II,37.0,Flu,2025-02-04,a+,YES
+9,Eric Brooks,54.0,HYPERTENSION,31/05/2023,,Yes
+10,Kevin Williams,78.0,HYPERTENSION,2024-09-30,,no
+11,Patrick Smith,7.0,,2025-12-16,,no
+12,Kenneth Knight,71.0,hypertension,2023-06-30,b-,
+13,Ralf Etzler-Pärtzelt,67.0,hypertension,2025-08-20,O+,yes
+14,Sven Vogt-Junk,21.0,Asthma,2025-07-29,AB+,YES
+15,Edda Kroker-Kambs,19.0,Flu,2025-09-09,A+,Yes
+16,Mareile Cichorius,58.0,asthma,2026-03-02,A+,No
+17,Marius Römer,7.0,Flu,2025-05-31,a+,no
+18,Kelly Christensen,31.0,Flu,13/11/2023,A+,no
+19,Denise Harris,29.0,Hypertension,2023-08-26,O+,yes
+20,Liesel Bien-Noack,,asthma,2023-07-18,,Yes
+21,Scott Stewart,18.0,Hypertension,2024-04-23,O+,
+22,Dominique White,61.0,HYPERTENSION,2023-07-25,,NO
+23,Herr Leonid Junk,61.0,,2023-10-03,a+,yes
+24,Brett Thomas,11.0,Hypertension,2023-05-16,O+,Yes
+25,David Harper,20.0,Flu,2024-01-24,A+,
+26,Franz Bolander,37.0,Diabetes,2024-10-08,O+,yes
+27,Immo Baum,7.0,Diabetes,07/09/2024,AB+,NO
+28,Victor Leonard,80.0,,2025-03-11,A+,yes
+29,Jason Miller,64.0,Hypertension,2025-07-31,b-,YES
+30,William Casey,74.0,Diabetes,2025-08-22,b-,Yes
+31,Abdul Mitschke,38.0,Flu,2026-03-05,A+,YES
+32,Timothy Olson,46.0,Diabetes,2025-04-01,a+,No
+33,Sibille Schüler,24.0,hypertension,2025-10-23,a+,no
+34,Danilo Warmer,9.0,Hypertension,2025-01-17,AB+,
+35,Selim Etzold,61.0,Hypertension,2024-03-11,b-,No
+36,Tina Flores,48.0,Asthma,04/12/2025,b-,yes
+37,Elenore Spieß,46.0,hypertension,2025-03-13,O+,Yes
+38,Albertine Süßebier,85.0,hypertension,2024-04-25,,YES
+39,April Smith,43.0,HYPERTENSION,2025-03-25,A+,no
+40,Kati Butte-Zirme,,asthma,2024-07-12,,NO
+41,Hans Kohl,23.0,,2024-11-27,b-,No
+42,Jacob Lee,81.0,HYPERTENSION,2024-06-13,,Yes
+43,Melanie Fletcher,9.0,,2023-12-15,A+,no
+44,Dr. Istvan Klotz B.Sc.,26.0,Hypertension,2023-07-24,,Yes
+45,William Little,6.0,asthma,08/10/2024,O+,YES
+46,Prof. Dusan Sorgatz,51.0,,2025-11-25,O+,yes
+47,Bethany Mahoney,83.0,Diabetes,2023-06-27,O+,no
+48,Sigurd Stiebitz B.Sc.,7.0,asthma,2025-12-07,O+,yes
+49,Walfried Loos,48.0,Flu,2025-05-02,AB+,NO
+50,Dipl.-Ing. Emmi Eberhardt,57.0,Flu,2025-11-07,O+,Yes
+51,Courtney Ramirez,64.0,,2024-10-11,O+,
+52,Hans-Otto Gude,67.0,Asthma,2024-11-20,,yes
+53,Courtney Norris DVM,55.0,hypertension,2023-07-15,AB+,YES
+54,Annamaria Schomber,24.0,Asthma,18/11/2023,O+,yes
+55,Knut Schomber,11.0,asthma,2023-05-17,b-,no
+56,David Peterson,40.0,,2025-10-24,a+,NO
+57,Patricia Harvey,55.0,HYPERTENSION,2025-10-03,b-,No
+58,Antonio Johnson,45.0,,2025-03-02,A+,NO
+59,Amy Lang,46.0,Flu,2025-12-17,O+,NO
+60,Bernd Stey,,Hypertension,2024-03-12,A+,NO
+61,Heike Dietz-Schönland,82.0,Flu,2024-12-19,O+,YES
+62,John Patterson,87.0,HYPERTENSION,2023-12-28,A+,Yes
+63,Garrett Lee,78.0,,23/04/2024,A+,Yes
+64,Sara Strong,9.0,Diabetes,2023-04-30,,NO
+65,Hilde Nerger,47.0,asthma,2025-03-15,AB+,YES
+66,Amy Collins,5.0,HYPERTENSION,2023-11-06,b-,No
+67,Lidia Riehl,48.0,asthma,2024-10-30,AB+,
+68,Eveline Koch,10.0,HYPERTENSION,2023-09-25,a+,no
+69,Jonathon Conley,51.0,asthma,2024-11-04,b-,no
+70,Margaret Harris,32.0,hypertension,2024-07-22,A+,NO
+71,Linda Süßebier B.Eng.,24.0,,2024-04-25,a+,No
+72,Cathrin Döhn,72.0,hypertension,20/02/2025,O+,
+73,Thomas Fowler DDS,34.0,,2025-12-02,B+,YES
+74,Dr. Robert Aguirre,37.0,,2025-02-28,B+,yes
+75,Adriana Smith,18.0,hypertension,2023-11-28,AB+,Yes
+76,Jeremiah Welch,57.0,hypertension,2023-05-19,,NO
+77,Duane Robinson,41.0,asthma,2023-06-04,b-,yes
+78,Dr. Eberhardt Barkholz B.A.,71.0,Asthma,2025-06-12,O+,
+79,Breanna Pena,21.0,HYPERTENSION,2026-01-09,,no
+80,David Pacheco,,Diabetes,2024-04-21,A+,Yes
+81,Brian Fechner,18.0,Diabetes,11/02/2026,,No
+82,Melissa Stewart,4.0,asthma,2025-09-04,a+,YES
+83,Pamela Matthews,48.0,,2026-03-22,,YES
+84,Herr Magnus Holt B.A.,17.0,hypertension,2025-08-29,A+,no
+85,Rachel Mendez,51.0,,2023-12-02,a+,No
+86,Prof. Irmi Gieß B.Eng.,53.0,hypertension,2024-10-25,B+,no
+87,Dipl.-Ing. Elwira Salz MBA.,83.0,hypertension,2024-11-12,AB+,No
+88,David Robinson,88.0,asthma,2023-11-30,B+,
+89,Jacqueline Pierce,71.0,HYPERTENSION,2025-12-16,,Yes
+90,Karen Kitzmann B.A.,56.0,Hypertension,18/07/2025,,yes
+91,Dipl.-Ing. Irmtraut Löwer,67.0,HYPERTENSION,2024-09-07,O+,Yes
+92,Emma Kranz,21.0,asthma,2024-05-23,b-,Yes
+93,Bill Valenzuela,45.0,Asthma,2023-10-30,,yes
+94,Tammy Garcia,33.0,Diabetes,2025-10-26,b-,YES
+95,Michael Wright,36.0,HYPERTENSION,2024-05-15,b-,no
+96,Dr. Nancy Gaines MD,79.0,hypertension,2023-11-11,a+,NO
+97,Viktoria Lachmann-Sager,22.0,HYPERTENSION,2024-02-19,B+,NO
+98,Crystal Cummings,80.0,asthma,2024-09-15,,YES
+99,Gertraud Zorbach B.Sc.,6.0,Hypertension,17/09/2024,A+,yes
+100,Dr. Imke Mende,,Asthma,2025-10-29,b-,Yes
+101,Oscar Porter,74.0,Flu,2024-05-31,a+,NO
+102,Univ.Prof. Nina Kusch,4.0,,2024-04-23,b-,YES
+103,Amanda Taylor,38.0,Asthma,2024-04-08,AB+,Yes
+104,Daniela Krein-Bolnbach,88.0,Flu,2024-12-29,O+,No
+105,Victor Fowler,10.0,Hypertension,2023-11-09,B+,No
+106,Cassandra Serrano,54.0,,2023-07-28,AB+,Yes
+107,Victor Campbell,44.0,HYPERTENSION,2023-05-16,O+,
+108,Jacob Smith,41.0,asthma,01/03/2024,AB+,Yes
+109,Carolina Dörschner-Ehlert,48.0,hypertension,2025-11-14,O+,Yes
+110,Steven Clark,60.0,hypertension,2024-09-22,O+,No
+111,Prof. Kenan Jessel,32.0,HYPERTENSION,2024-03-21,A+,yes
+112,Damaris Albers,38.0,Flu,2024-10-18,,YES
+113,Prof. Gregor Roskoth MBA.,54.0,Diabetes,2024-08-17,,Yes
+114,Donna Ibarra,42.0,asthma,2024-09-05,B+,
+115,Loretta Gertz-Liebelt,21.0,,2024-05-01,a+,No
+116,Hanne Sorgatz B.A.,64.0,Asthma,2023-10-30,AB+,yes
+117,Seth Hill,12.0,Flu,21/06/2024,a+,No
+118,Miranda Robinson,31.0,Diabetes,2025-04-16,a+,no
+119,Angela Garcia PhD,7.0,Hypertension,2024-07-10,O+,No
+120,Jonathan Murray,,,2024-07-09,O+,YES
+121,Gertrud Weinhage-Kuhl,2.0,hypertension,2025-03-17,AB+,Yes
+122,Michael Taylor,34.0,asthma,2024-06-24,,No
+123,Matthew Reeves,47.0,Hypertension,2024-09-29,AB+,yes
+124,Dr. Siegbert Bähr,73.0,Diabetes,2023-09-17,O+,YES
+125,Jeanne Jones,37.0,hypertension,2023-10-28,AB+,YES
+126,Christopher Klein,58.0,Asthma,28/04/2025,,YES
+127,Robin Davidson,88.0,hypertension,2024-08-13,B+,yes
+128,Anja Scheuermann B.Sc.,51.0,asthma,2024-06-18,,no
+129,Jade Allen,72.0,asthma,2025-08-10,,Yes
+130,Gabrielle Lee DDS,26.0,Flu,2023-05-04,a+,yes
+5,Dr. Bruni Pärtzelt,58.0,Diabetes,2026-04-13,a+,Yes
+23,Herr Leonid Junk,61.0,,2023-10-03,a+,yes

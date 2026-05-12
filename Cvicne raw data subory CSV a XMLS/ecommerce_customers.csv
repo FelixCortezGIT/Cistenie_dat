@@ -1,0 +1,154 @@
+﻿customer_id,full_name,email,phone,city,country,date_of_birth,registered
+1,Donald Walker,garzaanthony@example.org,001-486-537-9402x654,New Carolyn,DE,1960-09-15,yes
+2,Hans Jürgen Kaul,vollbrechtvalerij@example.net,(03103) 413164,Millerport,USA,1988-12-25,YES
+3,Ing. Hans Dieter Häring,schlosserevelyne@example.org,+1-850-930-5641x39537,South Noah,U.S.A.,1969-04-30,Yes
+4,Kimberly Burgess,oklotz@example.org,922-669-1669,Wunsiedel,U.S.A.,1991-05-07,yes
+5,Kimberly Adams,hornigsylvio@example.org,02814 89325,Werdau,DE,1983-11-17,No
+6,Katherine Rodriguez,igor03@example.net,(578)624-8963,Lake Toddland,USA,2008-01-14,No
+7,Tatiana Plath MBA.,jeffreymorgan@example.net,510.451.8347,North Chad,us,1968.03.03,yes
+8,Dr. Antonietta Dietz,sigmund67@example.net,933.587.2624,North Richardmouth,USA,1978-10-11,yes
+9,Zachary Huff,gabrieltucker@example.org,+49(0)6474687234,Eckernförde,U.S.A.,2006-08-20,Yes
+10,Amy Silva,yuchristopher@example.org,001-739-690-9169,Lake Michellefurt,Germany,15/10/1990,No
+11,Ing. Hans-Theo Eigenwillig B.Eng.,suse10@example.com,(613)354-2784x980,New Jasonview,USA,1969-04-22,No
+12,Brittney Campbell,james48example.com,+49(0)0052 42786,Bremervörde,U.S.A.,1961-03-21,No
+13,Sandra Aguilar,tanderson@example.com,(886)592-3226x025,Jasonbury,us,1963-09-23,Yes
+14,Andrew Ruiz,ybailey@example.org,+49(0)4586 850142,Lake Jamesmouth,us,1957.04.26,No
+15,MONIKA ZIMMER,gauch-schlauchin@example.org,001-360-688-3561x595,Greiz,United States,1990-08-21,yes
+16,Marzena Hübel-Röhrdanz,robertbentley@example.net,+49(0)3699 57773,Richardtown,Germany,1997-05-11,Yes
+17,Diane Beck,weitzelhorst-peter@example.net,5038791769,Feuchtwangen,DE,1976-06-21,no
+18,Abigail Potter,zrobinson@example.net,872-978-8957,ravensburg,United States,1994-09-15,YES
+19,Ellen Weitzel B.A.,pschomber@example.com,+49(0) 455812236,Warendorf,U.S.A.,1992-09-24,Yes
+20,Gary Owens  ,marissaprice@example.net,0688937346,Woodsstad,Germany,29/10/1956,YES
+21,Mirjam Gehringer-Mosemann,meadowsbrittany@example.net,6468537556,Lake Roymouth,USA,1999.07.18,yes
+22,Philip Reuter,jeffrey10@example.org,427.319.3745,Port Andrew,us,2006-06-04,yes
+23,Tanya Johnston,mtrubin@example.org,(786)951-8506x716,Lake Kendraville,United States,1978-05-16,YES
+24,Dipl.-Ing. Ilonka Wagenknecht B.Eng.,marjanchristophexample.com,(09650) 752735,Wolmirstedt,Germany,1973-04-30,YES
+25,Jochem Grein Groth,jenniferfreeman@example.org,743-863-4957,Melsungen,Germany,1973-12-08,yes
+26,Florence Hermann,griffithleslie@example.net,(08941) 343524,East Joanna,DE,1992-10-25,no
+27,William Tran,agarcia@example.net,02047116719,Neubrandenburg,Germany,1963-05-02,yes
+28,Falko Drubin,lenepreiss@example.com,+49(0)9909 13341,Hammelburg,us,1968.01.02,yes
+29,Jason Norris,antonino34@example.net,493-661-8324x210,Bernburg,Germany,1978-07-26,YES
+30,MECHTHILD KUSCH,fmangold@example.net,939-990-4902,Navarroview,Germany,28/11/1964,No
+31,Frau Isabel Keudel MBA.,grete12@example.com,00715 45168,Hagenow,Germany,1990-02-23,YES
+32,Frau Constanze Pohl,cschomber@example.org,01093 248086,Andreaport,Germany,1967-03-14,Yes
+33,Bruce Collier,aneta46@example.com,(639)982-1465x8404,Miesbach,DE,1978-12-16,yes
+34,Geraldine Rohleder,mjungfer@example.net,976-262-7028x95171,Hallchester,USA,1977-01-07,Yes
+35,Richard Baker,juettnermonica@example.net,00913 43161,Schwäbisch Hall,Germany,1978.10.22,YES
+36,Anatolij Junk,michael62example.org,996-693-7923,eilenburg,USA,1968-10-27,Yes
+37,Julie Roberts,alexandermichael@example.net,04367 136959,Tübingen,Germany,2007-11-27,yes
+38,Sedat Sorgatz,alan90@example.net,+49(0) 394210470,Geldern,us,1994-02-08,YES
+39,Erin Perry,kristinwalter@example.com,+49(0)5171 23685,Grevenbroich,us,1997-03-13,YES
+40,Caleb Richardson  ,xschweitzer@example.org,(03174) 612004,Johnsonside,U.S.A.,11/06/1961,YES
+41,Brandy Chavez,reinhildeliebelt@example.net,001-853-677-3515x850,Gilbertview,United States,2006-08-10,Yes
+42,Maximilian Hahn,buchananjohn@example.org,652.490.4228,Port Kathyborough,DE,1990.04.30,YES
+43,Hunter Kramer,gertzjosip@example.org,05891 783908,Foxland,DE,1979-07-27,yes
+44,John Morales,cjoseph@example.org,899-385-6984x789,Charleneland,Germany,2000-06-28,Yes
+45,STEPHEN GUTIERREZ,uliebelt@example.org,02711116152,Helmstedt,Germany,1986-05-17,Yes
+46,Harm Klapp,hoeveldorle@example.com,(573)815-8514,Roding,U.S.A.,1987-07-27,no
+47,Dimitri Heydrich,niko02@example.org,683-766-7525,Diepholz,us,2002-02-09,YES
+48,Luke Craig,bspeerexample.com,001-281-256-1497x84036,Guben,DE,1971-04-08,No
+49,Pamela Roberts,jimenezryan@example.org,+49(0)6060 715969,Nördlingen,U.S.A.,1992.11.23,YES
+50,Belinda Lachmann,george97@example.net,569.768.1645,Marktheidenfeld,Germany,04/05/1959,yes
+51,Cheyenne Parsons,hubertusdobes@example.org,001-312-977-9979x95527,Einbeck,U.S.A.,1988-10-02,yes
+52,Hanns Patberg,steven00@example.com,+1-998-467-9807x935,Spremberg,Germany,1979-03-03,YES
+53,Jann Seidel,wrightsamuel@example.com,0590515186,Nathanport,us,1968-08-24,YES
+54,Kevin Thomas,wanda62@example.net,+1-581-468-5054x23573,angelicamouth,USA,1959-05-19,Yes
+55,Kimberly Rodgers,nancy92@example.net,001-592-570-6537x947,Eberswalde,Germany,2006-06-20,YES
+56,Hans-Eberhard Stiebitz MBA.,leopoldine68@example.net,907-458-1814x124,Finsterwalde,U.S.A.,1960.02.25,no
+57,Stacey Arias,krokeralla@example.com,4519522047,Vangstad,us,1987-11-27,no
+58,Daniel Hernandez,wulfkevin@example.org,(897)211-7980x89324,Badalzungen,U.S.A.,1968-01-16,YES
+59,Univ.Prof. Meinrad Caspar,putzbeate@example.net,04051531952,Markston,U.S.A.,1973-12-18,Yes
+60,UNIV.PROF. HINRICH TEXTOR  ,mareileernstexample.org,6302548687,Haldensleben,DE,15/06/1970,No
+61,Evelyn Martinez,vkuhl@example.com,05841 616928,Erding,Germany,1972-04-25,YES
+62,Edward Griffin,helenmartin@example.com,(06401) 658202,Wesel,DE,1957-02-18,No
+63,Matthew Cox,erikarush@example.com,656.654.3102x78681,Rochlitz,us,1966.08.30,No
+64,Dr. Betti Ernst B.Sc.,roswithatrueb@example.com,+49(0)2258 31323,Elizabethland,us,1956-09-06,YES
+65,Romana Rohleder B.A.,parkeryvonne@example.net,(451)477-8528,Ludwigslust,U.S.A.,1981-12-10,Yes
+66,Kelly Torres,sarah35@example.net,+1-484-724-9818x2992,Gransee,Germany,1999-01-11,no
+67,Travis Wise,kristarudolph@example.com,(04736) 47102,Smallside,USA,1977-04-27,yes
+68,Gustav auch Schlauchin B.A.,jasmina56@example.org,514.473.2104x696,Herzberg,Germany,2004-10-12,yes
+69,Ralf-Dieter Freudenberger MBA.,fjaentsch@example.org,001-250-304-7974,Wagnerbury,U.S.A.,1962-05-22,Yes
+70,Ortrud Kusch,kuehnertbernd@example.net,07849 91216,Angelaland,Germany,03/06/1997,no
+71,Notburga Fechner,cporter@example.org,+49 (0) 9825 952694,Lindahaven,Germany,1982-03-07,yes
+72,Ivana Bachmann,gundel16example.net,+49(0)9930 97289,sankt goar,us,1963-02-14,no
+73,Travis Rodriguez,jedwards@example.com,001-728-738-5786x527,Shawfort,Germany,1987-08-17,no
+74,Diana Evans,ildiko37@example.com,+49(0)1986 65240,Recklinghausen,Germany,2005-12-03,YES
+75,JEREMY SCOTT,hansgeorgrenner@example.com,908.333.0165,Bützow,Germany,1955-07-26,yes
+76,Timothy Johns,kathleenhoevel@example.com,+1-602-262-0672,Brandenburg,DE,1971-02-08,yes
+77,Frances Gibson,mirjanapaertzelt@example.com,+49 (0) 7420 549329,Calw,DE,1999.02.14,No
+78,Hans-Wilhelm Staude,tinawoods@example.org,04990453017,Patrickmouth,Germany,1963-10-03,YES
+79,Marcus Hübel,heinz-ottoeimer@example.com,07833 91878,Adkinsstad,Germany,1959-06-06,YES
+80,Joshua Wagner  ,markmeyer@example.org,+49(0)7286790874,Davishaven,USA,11/04/1976,YES
+81,Laura Williams,riehlburckhard@example.org,+49 (0) 2656 766182,Gütersloh,us,1961-07-30,Yes
+82,Otto Hauffer-Adler,steven86@example.net,02431069033,Gotha,us,1960-08-21,yes
+83,Michael Brennan,moralesjimmy@example.org,001-695-299-5342x8364,New Victoria,DE,1988-06-20,YES
+84,Frau Yvette Kaul MBA.,jlangeexample.com,+49(0) 342708668,Wunsiedel,Germany,1975.11.17,Yes
+85,Guenter Seifert B.Sc.,dittmar83@example.org,239-583-7354,Suhl,Germany,2006-04-13,yes
+86,Nicole Rocha,jherman@example.com,+49(0)4587 71753,Mühldorf am Inn,Germany,1971-11-16,YES
+87,Connie Thomas,jhuebel@example.org,485.247.7725x2287,Konstanz,Germany,1999-10-06,No
+88,Mary Duran,mercedesschuchhardt@example.org,00997700886,North Jeffery,Germany,1956-03-05,Yes
+89,Albina Paffrath,ekkeharddietz@example.net,04615679334,East Christine,U.S.A.,1989-12-09,YES
+90,JAMES TRAN,warnerchristopher@example.com,239.474.0148,pegnitz,Germany,14/02/1956,Yes
+91,Nicole Marquez,jacobgotthilf@example.net,0218501631,Rhodesside,Germany,1987.05.14,No
+92,Almut Schulz,onoack@example.com,+49(0)9431 142626,Erding,USA,1974-05-29,No
+93,Eric Ward,eigenwilligdieter@example.org,+49(0)0158 199560,Ravensburg,United States,1977-03-22,no
+94,Kristin Haney,ginajackson@example.com,626-546-4715,Niesky,USA,1986-10-06,yes
+95,Chad Smith,melitta96@example.com,759-837-5265x4793,Malchin,United States,1998-07-26,YES
+96,Beatrix Rose,erinpierceexample.net,+49(0)6724 342661,Mayen,U.S.A.,2007-10-19,yes
+97,Kathi Patberg-Süßebier,zobelwendelin@example.com,+1-590-996-5610x1438,Port Johnstad,U.S.A.,1976-01-08,No
+98,Alexander Garcia,drubmarleen@example.net,375.471.7751x40105,Larrymouth,USA,1982.08.22,yes
+99,Jeffery Murray,hans-gerhardschwital@example.net,496.760.3341x918,Augsburg,DE,1965-09-26,no
+100,Scott Rose  ,zschmidt@example.net,+1-849-891-2513x41252,Michaelmouth,Germany,03/10/1985,yes
+101,Dipl.-Ing. Manuel Renner,tracytaylor@example.com,323.268.8767x6772,Kaiserslautern,Germany,1970-10-09,No
+102,Prof. Friedrich-Karl Geisler MBA.,ruppersbergerercan@example.com,03613 40745,Zeulenroda,Germany,1978-07-24,Yes
+103,Cynthia Cochran,ngehringer@example.org,04982 54494,Port Brian,U.S.A.,1962-06-23,no
+104,Frederik Sölzer,johndawson@example.org,(06671) 16845,Diepholz,Germany,2005-08-27,Yes
+105,SYLVESTER WOHLGEMUT,sreid@example.com,345.945.8929x7500,Robinsonchester,United States,1961.11.16,No
+106,Aaron Rubio,nicoleturner@example.com,9643361103,Johnstad,Germany,1986-10-04,No
+107,Adam Textor,loechelhenri@example.org,+49(0)1155 426221,Geldern,us,1987-08-22,Yes
+108,Nathan Fuller,cjensenexample.org,06523413899,east karenshire,Germany,1996-07-30,Yes
+109,Mary Turner,dphillips@example.org,491.980.5526x9658,Calw,DE,1956-03-05,YES
+110,Daniel Livingston,ester86@example.com,614-818-3285x691,Soltau,us,12/05/1958,YES
+111,Audrey Salazar,elizabeth21@example.org,+49 (0) 5241 056481,East Tylerstad,us,1993-01-16,No
+112,Jorge Brown PhD,eric19@example.net,8305756220,Lake William,us,1968.06.13,yes
+113,Sabina Buchholz,paffrathgunda@example.org,(617)544-5187x0534,Port Zachary,U.S.A.,1974-10-23,Yes
+114,Pasquale Ritter B.A.,randolphandrew@example.net,001-564-813-8367x02410,Hoyerswerda,USA,1979-08-04,YES
+115,Kathy Walsh,scheelcaterina@example.org,+49(0)5655 74313,Germersheim,USA,1996-08-17,No
+116,Christopher Owens,reisingorhan@example.org,+49(0)1249 035213,Monschau,Germany,1976-04-16,Yes
+117,Debbie Ewing,jbond@example.net,6033236519,South Curtisberg,Germany,2008-02-22,Yes
+118,Jill Anderson,bergertheres@example.com,00662 532447,New Ryan,USA,1957-02-15,yes
+119,Kathleen Andrade,christophkarl-hermann@example.com,+1-680-465-7875x9856,Gonzalezhaven,DE,1972.03.11,yes
+120,ROBERT CAMPBELL  ,krista93example.org,001-439-565-2239x55905,Lake John,U.S.A.,09/01/1984,yes
+121,Brandon Hall II,kabussina@example.net,+49(0)0292185156,West Jennifer,USA,1973-02-16,YES
+122,Zoran Franke-Wagenknecht,useip@example.org,(544)322-0969x0295,Stollberg,USA,1962-09-29,No
+123,William Jackson,sean43@example.org,8673626765,Jonathanville,U.S.A.,1997-02-04,YES
+124,Benjamin Singleton,junckenjohannes@example.org,001-418-215-9970x6296,Georgefurt,DE,1972-11-02,no
+125,Julian Frost,konstantinos31@example.org,(606)314-9731x032,Döbeln,U.S.A.,2000-01-05,No
+126,Isabell Niemeier-Speer,segebahnbeate@example.com,304.777.4349x021,nicolestad,U.S.A.,2006.09.27,No
+127,Sara Cardenas,pruppersberger@example.com,898.399.2172x23320,Lemgo,Germany,1965-12-28,no
+128,Deanna Bartlett,hughesray@example.com,+49(0)6229 991191,Anklam,U.S.A.,2001-04-08,no
+129,Ing. Hannchen Sölzer,lbender@example.com,+49(0)6530745054,Schwarzenberg,Germany,1970-02-24,no
+130,Zeljko Heidrich,terri75@example.com,+49(0) 678508214,Erfurt,U.S.A.,25/06/1962,yes
+131,Shaun Gonzalez,antoniowilliams@example.com,(01035) 79727,Michealmouth,USA,1973-07-15,no
+132,Friedhelm Baum,froehlichmonjaexample.net,668-600-7229x034,Lake Jeffrey,United States,2002-10-02,no
+133,Elisa Harloff MBA.,gsauer@example.org,815.745.4443x2830,Hammelburg,us,1993.07.09,no
+134,Ellen Lindner,cwalter@example.net,(05842) 82417,Jessicabury,Germany,1994-07-24,yes
+135,STEPHANIE PENA,jeffrey46@example.com,01709 991738,Rothenburg ob der Tauber,DE,2001-04-08,yes
+136,Henrike Bloch,victoriacooper@example.net,001-917-352-5007x43292,Herford,USA,1987-11-10,no
+137,Hubertine Müller-Kraus,fergusonjessica@example.org,+1-233-654-2168x9421,Arnstadt,DE,1979-06-16,YES
+138,Univ.Prof. Bozena Karz,karolin32@example.com,609.282.1506,East Jessica,Germany,1990-05-18,yes
+139,Brian Wallace,thomas23@example.net,(09261) 891411,Robertville,U.S.A.,1965-10-26,Yes
+140,Sandra Dudley  ,khuebel@example.org,03001197218,Tuttlingen,U.S.A.,22/08/1993,No
+141,Maria Bryant,vitali01@example.org,+49(0)1002 255794,Michaelmouth,us,1975-01-15,Yes
+142,Herr Hans-Wilhelm Kuhl,martine67@example.com,769-279-7296,East Heatherton,us,1980-11-22,Yes
+143,Tibor Langern,bolnbachjohn@example.net,+1-258-289-1637x56289,Vilsbiburg,United States,1982-02-01,no
+144,Dr. Anneli Weitzel MBA.,maximholstenexample.org,879.871.7751x701,powellbury,U.S.A.,1984-10-26,yes
+145,Rebecca Richmond,geraldinesteckel@example.com,758.799.7571x130,Bamberg,us,1984-04-26,No
+146,Anatoli Gehringer,marietrupp@example.net,216.337.3516,Greiz,USA,1979-07-14,yes
+147,April Fitzgerald,xpechel@example.org,06693 46547,North Paul,DE,1962.08.13,No
+148,Mia Walter,jasonklein@example.net,385.215.8799x68460,Wanzleben,Germany,1962-12-29,yes
+149,Paul Martin,gabor04@example.org,001-286-638-4066x6580,Lisaville,USA,1988-03-07,Yes
+150,UNIV.PROF. NIKOLAJ TRÖST B.ENG.,kellythompson@example.net,(406)248-4229x4057,East Jill,U.S.A.,05/07/2004,no
+6,Katherine Rodriguez,igor03@example.net,(578)624-8963,Lake Toddland,USA,2008-01-14,No
+23,Tanya Johnston,mtrubin@example.org,(786)951-8506x716,Lake Kendraville,United States,1978-05-16,YES
+41,Brandy Chavez,reinhildeliebelt@example.net,001-853-677-3515x850,Gilbertview,United States,2006-08-10,Yes

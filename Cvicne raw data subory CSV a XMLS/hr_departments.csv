@@ -1,0 +1,22 @@
+﻿department_id,department_name,manager,location,budget,headcount,cost_center
+1,Maximize,Bernd-Dieter Schuchhardt,Norden,212650.0,44,CC-815
+2,Integrate,Dr. Michelle Bolander B.Sc.,Rastatt,397149.0,28,CC-232
+3,Empower,Todd Reed DDS,West Jessica,361972.0,48,CC-186
+4,Seize,Melinda Dorsey,Haldensleben,212310.0,38,CC-485
+5,Deploy,Diane Curry,Einbeck,387375.0,24,CC-932
+6,Leverage,Ing. Edeltraud Häring B.Sc.,Nicolestad,,45,CC-819
+7,Reinvent,Frau Lucie Heidrich,South Jonathan,484613.0,50,CC-801
+8,Generate,Slawomir Stumpf-Pieper,South Laurenville,325981.0,8,CC-761
+9,Generate,,East Crystalborough,401512.0,30,CC-620
+10,Leverage,Cosimo Seifert,Dessau,239702.0,4,CC-471
+11,Iterate,Ewald Mühle,Oberviechtach,211934.0,14,CC-319
+12,Evolve,Madlen Stadelmann,Port Karen,,34,CC-296
+13,Generate,Dipl.-Ing. Tania Mielcarek,Meißen,168773.0,11,CC-258
+14,Revolutionize,Ernest Holden,Brownton,90456.0,21,CC-964
+15,Productize,Dipl.-Ing. Svetlana Stiffel,Ilmenau,463201.0,9,CC-619
+16,Transition,Jill Harris,Stadtroda,454160.0,37,CC-955
+17,Revolutionize,George Hardy,Jasonhaven,437262.0,36,CC-138
+18,Mesh,,North Pamelaside,,24,CC-997
+19,Incentivize,Sarah Green,Badalzungen,451765.0,42,CC-234
+20,Grow,William Trujillo,Kevinshire,363129.0,27,CC-257
+2,Integrate,Dr. Michelle Bolander B.Sc.,Rastatt,397149.0,28,CC-232
