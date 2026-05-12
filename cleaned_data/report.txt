@@ -1,0 +1,164 @@
+DATA CLEANING WORKFLOW
+==================================================
+
+==================================================
+analyza: hr_employees.csv
+
+==================================================
+rozmery: 103 riadkov, 8 stlpcov
+
+datove typy stlpcov:
+employee_id        int64
+full_name            str
+department           str
+position             str
+salary           float64
+hire_date            str
+email                str
+contract_type        str
+dtype: object
+
+chybajuce hodnoty:
+employee_id      0
+full_name        0
+department       0
+position         0
+salary           8
+hire_date        0
+email            9
+contract_type    0
+dtype: int64
+
+chybajuce hodnoty v %
+employee_id      0.00
+full_name        0.00
+department       0.00
+position         0.00
+salary           7.77
+hire_date        0.00
+email            8.74
+contract_type    0.00
+dtype: float64
+
+duplikatnych riadkov:      employee_id     full_name  ...                 email contract_type
+100            8    Mary Adams  ...   zmendoza@norman.com    contractor
+101           31  Donald Terry  ...  cartertara@huynh.com     full-time
+102           56  Eric Löffler  ...    eklemm@schleich.de     full-time
+
+[3 rows x 8 columns]
+
+unikatne hodntoy v textovych stlpcoch:
+  full_name: 100
+  department: 8
+  position: 72
+  hire_date: 100
+  email: 91
+  contract_type: 6
+
+statistiky numerickych stlpcov:
+       employee_id       salary
+count   103.000000    95.000000
+mean     49.951456  4729.021053
+std      28.954115  1893.481101
+min       1.000000  1653.000000
+25%      25.500000  2754.500000
+50%      50.000000  4907.000000
+75%      74.500000  6244.000000
+max     100.000000  7997.000000
+
+Koeficient variacie platov (CV - Coefficient of Variation): 40.0 %
+
+=== CV platov podla departmentu ===
+            count     mean      std     CV
+department                                
+Finance        11  4408.91  1816.08  41.19
+HR             10  3463.90  1173.87  33.89
+IT             11  4571.00  1773.47  38.80
+Marketing       8  6092.25  1240.72  20.37
+Operations     10  5373.60  2240.64  41.70
+finance        14  4280.14  1701.58  39.76
+hr             14  5206.71  2236.07  42.95
+it             17  4738.18  1922.48  40.57
+po odstraneni duplikatov: 100 riadkov
+
+zjednotene hodnoty pre department: <StringArray>
+['Operations', 'Finance', 'Marketing', 'Hr', 'It']
+Length: 5, dtype: str
+unikatne contract_type po cisteni: <StringArray>
+['Part-Time', 'Full-Time', 'Contractor']
+Length: 3, dtype: str
+riadky s chybajucim salary: 8
+subor ulozeny: cleaned_data/hr_employees_clean.csv
+
+==================================================
+analyza: cleaned_data/hr_employees_clean.csv
+
+==================================================
+rozmery: 100 riadkov, 8 stlpcov
+
+datove typy stlpcov:
+employee_id        int64
+full_name            str
+department           str
+position             str
+salary           float64
+hire_date            str
+email                str
+contract_type        str
+dtype: object
+
+chybajuce hodnoty:
+employee_id      0
+full_name        0
+department       0
+position         0
+salary           8
+hire_date        0
+email            9
+contract_type    0
+dtype: int64
+
+chybajuce hodnoty v %
+employee_id      0.0
+full_name        0.0
+department       0.0
+position         0.0
+salary           8.0
+hire_date        0.0
+email            9.0
+contract_type    0.0
+dtype: float64
+
+duplikatnych riadkov: Empty DataFrame
+Columns: [employee_id, full_name, department, position, salary, hire_date, email, contract_type]
+Index: []
+
+unikatne hodntoy v textovych stlpcoch:
+  full_name: 100
+  department: 5
+  position: 72
+  hire_date: 100
+  email: 91
+  contract_type: 3
+
+statistiky numerickych stlpcov:
+       employee_id       salary
+count   100.000000    92.000000
+mean     50.500000  4782.021739
+std      29.011492  1883.856373
+min       1.000000  1653.000000
+25%      25.750000  2785.250000
+50%      50.500000  4923.000000
+75%      75.250000  6276.500000
+max     100.000000  7997.000000
+
+Koeficient variacie platov (CV - Coefficient of Variation): 39.4 %
+
+=== CV platov podla departmentu ===
+            count     mean      std     CV
+department                                
+Finance        25  4336.80  1716.63  39.58
+Hr             23  4603.48  1986.05  43.14
+It             26  4737.38  1860.29  39.27
+Marketing       8  6092.25  1240.72  20.37
+Operations     10  5373.60  2240.64  41.70
